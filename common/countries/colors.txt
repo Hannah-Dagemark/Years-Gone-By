@@ -2,3 +2,8 @@ TST = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+
+GRT = {
+	color = rgb { 110 8 31 }
+	color_ui = rgb { 150 38 52 }
+}

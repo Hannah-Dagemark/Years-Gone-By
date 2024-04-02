@@ -2,9 +2,16 @@ state={
 	id=983
 	name="STATE_983"
 	provinces={
-		1048 5622 6776 7757 13084 13107 13151 13172 13185 13234 13271 
+		1048 5622 6776 13084 13107 13151 13185 13234 13271 
 	}
 	buildings_max_level_factor=1.000
         manpower=1000
         state_category = rural
+	history={
+		add_core_of = AVI
+		owner = AVI
+		victory_points={
+		13107 8
+		}
+	}
 }

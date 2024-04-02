@@ -1,0 +1,6 @@
+AVI = "countries/Avvnie.txt"
+GRT = "countries/Gartiva.txt"
+BRK = "countries/Barkenia.txt"
+CUM = "countries/Cussemini.txt"
+LAN = "countries/Lantrio.txt"
+BOR = "countries/BSOFS.txt"
