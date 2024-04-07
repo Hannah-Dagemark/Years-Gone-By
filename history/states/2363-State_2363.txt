@@ -1,0 +1,16 @@
+state={
+	id=2363
+	name="STATE_2363"
+	provinces={
+		4434 13256 13348 13331 13452 13434 13384 13479 13523 7494
+	}
+	buildings_max_level_factor=1.000
+        manpower=1000
+        state_category = rural
+	history={
+		add_core_of = YXN
+		owner = YXN
+		victory_points={
+		}
+	}
+}

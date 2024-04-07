@@ -2,8 +2,27 @@ TST = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
-
+AVI = {
+	color = rgb { 144 231 245 }
+	color_ui = rgb { 144 231 245 }
+}
 GRT = {
 	color = rgb { 110 8 31 }
 	color_ui = rgb { 150 38 52 }
+}
+BRK = {
+	color = rgb { 190 82 25 }
+	color_ui = rgb { 190 82 25 }
+}
+CUM = {
+	color = rgb { 25 63 117 }
+	color_ui = rgb { 25 63 117 }
+}
+LAN = {
+	color = rgb { 65 209 52 }
+	color_ui = rgb { 65 209 52 }
+}
+BOR = {
+	color = rgb { 40 75 38 }
+	color_ui = rgb { 40 75 38 }
 }

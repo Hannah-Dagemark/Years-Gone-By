@@ -2,9 +2,16 @@ state={
 	id=921
 	name="STATE_921"
 	provinces={
-		4472 12704 12767 12780 
+		4472 12704 12767 12780 12978 4370
 	}
 	buildings_max_level_factor=1.000
         manpower=1000
         state_category = rural
+	history={
+        add_core_of = BOR
+        owner = BOR
+        victory_points={
+        4472 4
+        }
+    }
 }

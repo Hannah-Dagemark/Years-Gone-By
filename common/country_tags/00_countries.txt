@@ -4,3 +4,8 @@ BRK = "countries/Barkenia.txt"
 CUM = "countries/Cussemini.txt"
 LAN = "countries/Lantrio.txt"
 BOR = "countries/BSOFS.txt"
+
+YXN = "countries/Yxginn.txt"
+CAT = "countries/Castaria.tct"
+ESK = "countries/Estalakerden.txt"
+SDV = "countries/Sudvinnen.txt"
