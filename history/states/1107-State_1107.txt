@@ -11,6 +11,10 @@ state={
         add_core_of = CAT 
         owner = CAT 
         victory_points={
+	14001 2
+        }
+	victory_points={
+	4210 8
         }
     }
 }

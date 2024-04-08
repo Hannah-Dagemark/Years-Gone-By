@@ -11,6 +11,10 @@ state={
 		add_core_of = YXN
         	owner = YXN
         	victory_points={
+		13787 6
+        	}
+		victory_points={
+		7460 5
         	}
 	}
 }

@@ -11,6 +11,7 @@ state={
         add_core_of = ESK
         owner = ESK 
         victory_points={
+	13050 3
         }
     }
 }

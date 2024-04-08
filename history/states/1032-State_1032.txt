@@ -11,6 +11,10 @@ state={
         add_core_of = SDV 
         owner = SDV 
         victory_points={
+	13435 6
+        }
+	victory_points={
+	4607 4
         }
     } 
 }
