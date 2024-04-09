@@ -2,9 +2,13 @@ state={
 	id=930
 	name="STATE_930"
 	provinces={
-		5428 12738 12831 12840 12929 13059 
+		5428 12738 12831 12840 12929  
 	}
 	buildings_max_level_factor=1.000
         manpower=1000
         state_category = rural
+	history={
+		add_core_of = BTN
+		owner = BTN
+	}
 }

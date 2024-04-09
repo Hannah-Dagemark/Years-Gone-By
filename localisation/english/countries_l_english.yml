@@ -28,4 +28,34 @@
  
  SDV_neutrality:0 "Südvinnen"
  SDV_neutrality_DEF:0 "The Südvinnen principality"
+
+
+ BTN_neutrality:0 "Bretagne"
+ BTN_neutrality_DEF:0 "Bretagne"
+
+ AQT_neutrality:0 "Aquatuanie"
+ AQT_neutrality_DEF:0 "Aquatuanie"
+
+ OCT_neutrality:0 "Occatanje"
+ OCT_neutrality_DEF:0 "Occatanje"
+
+ ANL_neutrality:0 "Arañellos"
+ ANL_neutrality_DEF:0 "Arañellos"
+
+ RUM_neutrality:0 "Union de las Republicas Montañas"
+ RUM_neutrality_DEF:0 "Union de las Republicas Montañas"
+
+ GAJ_neutrality:0 "Gajaritas"
+ GAJ_neutrality_DEF:0 "Gajaritas"
  
+ PAR_neutrality:0 "Parlouwello"
+ PAR_neutrality_DEF:0 "Parlouwello"
+ 
+ WGT_neutrality:0 "World Governing Totalitarians"
+ WGT_neutrality_DEF:0 "World Governing Totalitarians"
+ 
+ USF_neutrality:0 "Union of Surviving Farmlands"
+ USF_neutrality_DEF:0 "Union of Surviving Farmlands"
+ 
+ GAR_neutrality:0 "Garanatai"
+ GAR_neutrality_DEF:0 "Garanatai"
