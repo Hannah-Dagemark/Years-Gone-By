@@ -59,3 +59,35 @@
  
  GAR_neutrality:0 "Garanatai"
  GAR_neutrality_DEF:0 "Garanatai"
+
+
+  
+ WAL_neutrality:0 "Waelia"
+ WAL_neutrality_DEF:0 "Waelia"
+  
+ COR_neutrality:0 "Corrivié"
+ COR_neutrality_DEF:0 "Corrivié"
+  
+ FRA_neutrality:0 "Farracasicia"
+ FRA_neutrality_DEF:0 "Farracasicia"
+  
+ NER_neutrality:0 "Neriffiticia"
+ NER_neutrality_DEF:0 "Neriffiticia"
+  
+ SOC_neutrality:0 "Soccotorro"
+ SOC_neutrality_DEF:0 "Soccotorro"
+  
+ NAR_neutrality:0 "Narrvii"
+ NAR_neutrality_DEF:0 "Narrvii"
+  
+ DUB_neutrality:0 "Dubliniv"
+ DUB_neutrality_DEF:0 "Dubliniv"
+  
+ CER_neutrality:0 "Cerck"
+ CER_neutrality_DEF:0 "Cerck"
+  
+ NMD_neutrality:0 "Normandié"
+ NMD_neutrality_DEF:0 "Normandié"
+  
+ LIC_neutrality:0 "The Lesser Confederation of Island Principalities"
+ LIC_neutrality_DEF:0 "The Lesser Confederation of Island Principalities"
