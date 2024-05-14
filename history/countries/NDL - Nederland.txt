@@ -14,8 +14,8 @@ set_popularities = {
 create_country_leader = {
 	name = "King Roelof II Hoegenberk"
 	desc = ""
-	picture = "gfx/leaders/NDL/Portrait_Netherlands_Roelof_II_Hoegenberk"
-	ideology = monarchism
+	picture = "Portrait_Netherlands_Roelof_II_Hoegenberk.dds"
+	ideology = absolute_monarchy
 	traits = {
 	#
 	}
