@@ -1,0 +1,102 @@
+focus_tree = {
+    id = esk_default
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            original_tag = ESK
+        }
+    }
+
+    focus = {
+        id = esk_back_to_flodd
+        x = 10
+        cost = 5
+        mutually_exclusive = {
+            focus = esk_stand_alone
+        }
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = -100
+        }
+    }
+
+    focus = {
+        id = esk_stand_alone
+        x = 12
+        cost = 5
+        mutually_exclusive = {
+            focus = esk_back_to_flodd
+        }
+        completion_reward = {
+            add_stability = -0.05
+            add_war_support = 0.05
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_army_with_state
+        y = 1
+        cost = 5
+        prerequisite = {focus = esk_stand_alone}
+        relative_position_id = esk_stand_alone
+        mutually_exclusive = {
+            focus = esk_lake_with_people
+        }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_lake_with_people
+        x = 2
+        y = 1
+        cost = 5
+        prerequisite = {focus = esk_stand_alone}
+        relative_position_id = esk_stand_alone
+        mutually_exclusive = {
+            focus = esk_army_with_state
+        }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_begin_reconstruction
+        x = 4
+        y = 1
+        cost = 5
+        prerequisite = { focus = esk_stand_alone }
+        relative_position_id = esk_stand_alone
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_plan_connections
+        y = 1
+        cost = 5
+        prerequisite = { focus = esk_begin_reconstruction }
+        relative_position_id = esk_begin_reconstruction
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_bounty_of_lake
+        y = 1
+        x = -1
+        cost = 5
+        prerequisite = { focus = esk_plan_connections }
+        prerequisite = { focus = esk_lake_with_people }
+        relative_position_id = esk_plan_connections
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+}

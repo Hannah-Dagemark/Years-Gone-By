@@ -23,3 +23,22 @@ create_country_leader = {
 	#
 	}
 }
+
+add_ideas = {
+	floddstatt_member
+	floddstatt_leader
+}
+
+create_faction = "Flodd Statt"
+
+add_to_faction = BRK
+add_to_faction = CUM
+add_to_faction = LAN
+add_to_faction = AVI
+add_to_faction = BOR
+
+puppet = BRK
+puppet = CUM
+puppet = LAN
+puppet = AVI
+puppet = BOR
