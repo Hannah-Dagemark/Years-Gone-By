@@ -29,6 +29,9 @@
  SDV_neutrality:0 "Südvinnen"
  SDV_neutrality_DEF:0 "The Südvinnen principality"
 
+ NDL_neutrality:0 "Nederland"
+ NDL_neutrality_DEF:0 "The Reformed Kingdom of Nederland"
+
 
  ##UNCLAIMED / MAPFILLER:
 
