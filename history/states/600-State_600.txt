@@ -6,11 +6,18 @@ state={
 	}
 	buildings_max_level_factor=1.000
         manpower=1000
-        state_category = rural
+        state_category = small_island
 	history={
 		add_core_of = NDL
 		owner = NDL
 		victory_points={
 		5282 10
+		}
+		1936.1.1 = {
+			controller = NDL
+			buildings = {
+				infrastructure = 1
+				dockyard = 1
+			}
 		}
 }
