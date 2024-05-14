@@ -1,24 +1,21 @@
 capital = 624
 
 set_politics = {
-	ruling_party = neutrality
-	last_election = "1935.6.1"
+	ruling_party = monarchism
+	last_election = "0.1.1"
 	election_frequency = 12
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 0
-	fascism = 0
-	communism = 0
-	neutrality = 0
+	monarchism = 100
 }
 
 create_country_leader = {
-	name = "Generic Generico IV"
+	name = "King Roelof II Hoegenberk"
 	desc = ""
 	picture = ""
-	ideology = despotism
+	ideology = monarchism
 	traits = {
 	#
 	}
