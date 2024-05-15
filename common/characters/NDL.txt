@@ -1,0 +1,15 @@
+characters={
+	NDL_roelof_ii_hoegenberk={
+		name=NDL_roelof_ii_hoegenberk
+		portraits={
+			civilian={
+				large="GFX_portrait_Roelof_II_Hoegenberk"
+			}
+		}
+		country_leader={
+			ideology=monarchism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

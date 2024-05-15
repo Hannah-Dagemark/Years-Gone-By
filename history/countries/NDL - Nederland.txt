@@ -1,0 +1,22 @@
+capital = 624
+
+set_politics = {
+	ruling_party = monarchism
+	last_election = "0.1.1"
+	election_frequency = 12
+	elections_allowed = no
+}
+
+set_popularities = {
+	monarchism = 100
+}
+
+create_country_leader = {
+	name = "King Roelof II Hoegenberk"
+	desc = ""
+	picture = "Portrait_Netherlands_Roelof_II_Hoegenberk.dds"
+	ideology = absolute_monarchy
+	traits = {
+	#
+	}
+}

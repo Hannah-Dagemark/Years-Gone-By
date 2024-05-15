@@ -5,6 +5,19 @@ state={
 		1710 6924 11164 11219 
 	}
 	buildings_max_level_factor=1.000
-        manpower=1000
-        state_category = rural
+        manpower=80000
+        state_category = town
+	history={
+		add_core_of = NDL
+		owner = NDL
+		victory_points={
+		11164 10
+		}
+		1936.1.1 = {
+			controller = NDL
+			buildings = {
+				infrastructure = 2
+				industrial_complex = 2
+			}
+		}
 }
