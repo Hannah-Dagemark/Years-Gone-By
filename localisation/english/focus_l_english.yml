@@ -1,0 +1,20 @@
+﻿l_english:
+ WHILE_FOCUSING:0 "While focusing on this, there will be the following effects:\n$EFF$"
+ 
+ 
+ ##ESK:
+ esk_back_to_flodd: "Righting the Wrong"
+ esk_back_to_flodd_desc: "The general's plan has backfired. The country is in shambles, and our eastern possesions are in open revolt. We must plead with the Grand Director for our re-entry into Floddstatt"
+ esk_stand_alone: "Subservient no longer"
+ esk_stand_alone_desc: "We have won our freedom, We have bested the meager armies of the Incompetent Directory, and with a swift purge of those who still might see themselves as citizens of the Floddstatt we will secure our future"
+ esk_army_with_state: "The army our hero"
+ esk_army_with_state_desc: "The people founded our nation, but the army won our freedom. For that we are eternally in their debt, and the GCoAF must be appropriately rewarded at once! §R Giving the GCoAF too much attention can have unforseen consequences...§!"
+
+ ##YXN:
+ yxn_the_federation_question: "The question of Floddstatt"
+ yxn_the_federation_question_desc: "After their revolution it has shown that Flodstatt is both strong in it's influence, yet has weaknesses in it's military. Perhaps it is time to reevaluate our policy towards them"
+ yxn_friendly_stance: "Establish good relations"
+ yxn_friendly_stance_desc: "We must establish good relations with Floddstatt to expand our economic potential and gain a powerful ally in upcoming conflicts"
+ yxn_demonstrate_modernity: "Display our modern ways"
+ ynx_demonstrate_modernity_desc: "Showing them our technological prowess might help our relations and trading possibilities"
+ yxn_demonstrate_diplomacy: "Send a diplomatic Envoy"

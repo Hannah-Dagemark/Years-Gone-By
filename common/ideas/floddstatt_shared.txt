@@ -12,7 +12,7 @@ ideas = {
 			
 			removal_cost = -1
 			
-			picture = generic_volunteer_expedition_bonus
+			picture = GFX_focus_generic_diplomatic_treaty
 			
 			modifier = {
 				political_power_gain = 0.1
@@ -37,7 +37,7 @@ ideas = {
 			
 			removal_cost = -1
 			
-			picture = generic_volunteer_expedition_bonus
+			picture = GFX_focus_generic_improve_the_administration
 			
 			modifier = {
 				weekly_manpower = 200
@@ -55,7 +55,7 @@ ideas = {
 			
 			removal_cost = -1
 			
-			picture = generic_volunteer_expedition_bonus
+			picture = GFX_focus_generic_conspiracy
 			
 			modifier = {
 				political_power_cost = 0.1
@@ -77,7 +77,7 @@ ideas = {
 
 			removal_cost = -1
 
-			picture = generic_volunteer_expedition_bonus
+			picture = GFX_focus_NORDIC_com_army
 
 			modifier = {
 				recruitable_population = 0.1

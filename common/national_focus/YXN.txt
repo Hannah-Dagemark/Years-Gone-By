@@ -132,10 +132,11 @@ focus_tree = {
         y = 0
         x = 25
         cost = 0
+        icon = GFX_focus_generic_league_of_nations
         mutually_exclusive = {}
         prerequisite = {}
         available = {
-            awlays = no
+            always = no
         }
         completion_reward = {
             add_political_power = 50
@@ -147,14 +148,104 @@ focus_tree = {
         y = 1
         x = -1
         cost = 5
+        icon = GFX_focus_generic_diplomatic_treaty
         relative_position_id = yxn_the_federation_question
         mutually_exclusive = { 
             focus = yxn_fortify_border
         }
-        prerequisite = {
-            yxn_the_federation_question
+        prerequisite = { focus = yxn_the_federation_question }
+        
+        completion_reward = {
+            add_political_power = 50
         }
-        available = {}
+    }
+
+    
+    focus = {
+        id = yxn_demonstrate_modernity
+        y = 1
+        x = -2
+        cost = 5
+        icon = GFX_focus_research2
+        relative_position_id = yxn_friendly_stance
+        mutually_exclusive = {}
+        prerequisite = { focus = yxn_friendly_stance }
+        
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = yxn_demonstrate_diplomacy
+        y = 1
+        x = 0
+        cost = 5
+        icon = GFX_focus_generic_industrialists
+        relative_position_id = yxn_friendly_stance
+        mutually_exclusive = {}
+        prerequisite = { focus = yxn_friendly_stance }
+        
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = yxn_towards_federation
+        y = 1
+        x = 0
+        cost = 5
+        icon = GFX_focus_generic_court
+        relative_position_id = yxn_demonstrate_diplomacy
+        mutually_exclusive = { focus = yxn_peaceful_coexistance }
+        prerequisite = { focus = yxn_demonstrate_diplomacy }
+        prerequisite = { focus = yxn_demonstrate_modernity }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = yxn_river_amenities
+        y = 1
+        x = 0
+        cost = 5
+        icon = GFX_focus_CHL_silverworking
+        relative_position_id = yxn_towards_federation
+        mutually_exclusive = {}
+        prerequisite = { focus = yxn_towards_federation }
+        
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = yxn_peaceful_coexistance
+        y = 1
+        x = 0
+        cost = 5
+        icon = GFX_focus_usa_union_representation_act
+        relative_position_id = yxn_demonstrate_modernity
+        mutually_exclusive = { focus = yxn_towards_federation }
+        prerequisite = { focus = yxn_demonstrate_modernity }
+        prerequisite = { focus = yxn_demonstrate_diplomacy }
+        
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = yxn_trade_agreements
+        y = 1
+        x = 0
+        cost = 5
+        icon = GFX_goal_generic_intelligence_exchange
+        relative_position_id = yxn_peaceful_coexistance
+        prerequisite = { focus = yxn_peaceful_coexistance }
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -165,12 +256,13 @@ focus_tree = {
         y = 1
         x = 1
         cost = 5
+        icon = GFX_focus_generic_strike_at_democracy1
         relative_position_id = yxn_the_federation_question
         mutually_exclusive = { 
             focus = yxn_friendly_stance
         }
         prerequisite = { focus = yxn_the_federation_question }
-        available = {}
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -179,12 +271,13 @@ focus_tree = {
     focus = {
         id = yxn_army_exercises
         y = 1
-        x = -2
+        x = 2
         cost = 5
+        icon = GFX_focus_ETH_freedom_at_gunpoint
         relative_position_id = yxn_fortify_border
         mutually_exclusive = {}
-        prerequisite = { focus = yxn_the_federation_question }
-        available = {}
+        prerequisite = { focus = yxn_fortify_border }
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -195,10 +288,11 @@ focus_tree = {
         y = 1
         x = 0
         cost = 5
+        icon = GFX_focus_generic_industry_3
         relative_position_id = yxn_fortify_border
         mutually_exclusive = {}
-        prerequisite = { focus = yxn_the_federation_question }
-        available = {}
+        prerequisite = { focus = yxn_fortify_border }
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -209,11 +303,11 @@ focus_tree = {
         y = 1
         x = 0
         cost = 5
+        icon = GFX_focus_generic_full_social_mobilization
         relative_position_id = yxn_expand_war_industries
-        mutually_exclusive = { yxn_raise_fortifications }
+        mutually_exclusive = { focus = yxn_raise_fortifications }
         prerequisite = { focus = yxn_expand_war_industries }
         prerequisite = { focus = yxn_army_exercises }
-        available = {}
         completion_reward = {
             add_political_power = 50
         }
@@ -224,10 +318,11 @@ focus_tree = {
         y = 1
         x = 0
         cost = 5
+        icon = GFX_focus_generic_farmland
         relative_position_id = yxn_deploy_the_berserkers
         mutually_exclusive = {}
         prerequisite = { focus = yxn_deploy_the_berserkers }
-        available = {}
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -238,11 +333,12 @@ focus_tree = {
         y = 1
         x = 0
         cost = 5
+        icon = GFX_focus_usa_build_the_pentagon
         relative_position_id = yxn_army_exercises
-        mutually_exclusive = { yxn_deploy_the_berserkers }
+        mutually_exclusive = { focus = yxn_deploy_the_berserkers }
         prerequisite = { focus = yxn_expand_war_industries }
         prerequisite = { focus = yxn_army_exercises }
-        available = {}
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -253,9 +349,10 @@ focus_tree = {
         y = 1
         x = 0
         cost = 5
+        icon = GFX_goal_generic_dangerous_deal
         relative_position_id = yxn_raise_fortifications
         prerequisite = { focus = yxn_raise_fortifications }
-        available = {}
+        
         completion_reward = {
             add_political_power = 50
         }
@@ -263,17 +360,17 @@ focus_tree = {
 
     focus = {
         id = yxn_letter_to_floddstatt
-        y = 6
+        y = 5
         x = 0
         cost = 5
+        icon = GFX_goal_generic_forceful_treaty
         relative_position_id = yxn_the_federation_question
         mutually_exclusive = {}
-        prerequisite = { focus = yxn_the_federation_question }
-        available = {
-            OR = {
-                has_completed_focus = yxn_southern_defensive_front
-                has_completed_focus = yxn_settlers_of_the_east
-            }
+        prerequisite = { 
+            focus = yxn_settlers_of_the_east
+            focus = yxn_southern_defensive_front
+            focus = yxn_river_amenities
+            focus = yxn_trade_agreements
         }
         completion_reward = {
             add_political_power = 50

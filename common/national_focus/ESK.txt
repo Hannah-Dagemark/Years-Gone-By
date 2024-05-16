@@ -12,6 +12,7 @@ focus_tree = {
         id = esk_back_to_flodd
         x = 10
         cost = 5
+        icon = GFX_focus_generic_concessions
         mutually_exclusive = {
             focus = esk_stand_alone
         }
@@ -25,6 +26,7 @@ focus_tree = {
         id = esk_stand_alone
         x = 12
         cost = 5
+        icon = GFX_focus_generic_conspiracy
         mutually_exclusive = {
             focus = esk_back_to_flodd
         }
@@ -39,10 +41,61 @@ focus_tree = {
         id = esk_army_with_state
         y = 1
         cost = 5
+        icon = GFX_focus_POL_beck_ribbentrop
         prerequisite = {focus = esk_stand_alone}
         relative_position_id = esk_stand_alone
         mutually_exclusive = {
             focus = esk_lake_with_people
+        }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_unity_parade
+        y = 1
+        cost = 5
+        prerequisite = {focus = esk_army_with_state}
+        relative_position_id = esk_army_with_state
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_eastern_representatives
+        y = 1
+        x = -1
+        cost = 5
+        prerequisite = {focus = esk_unity_parade}
+        relative_position_id = esk_unity_parade
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_seat_at_table
+        y = 1
+        x = 1
+        cost = 5
+        prerequisite = {focus = esk_unity_parade}
+        relative_position_id = esk_unity_parade
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_the_banquet
+        y = 1
+        x = 1
+        cost = 5
+        prerequisite = {focus = esk_eastern_representatives focus = esk_seat_at_table}
+        relative_position_id = esk_eastern_representatives
+        available = {
+            always = no
         }
         completion_reward = {
             add_political_power = 50
@@ -95,6 +148,158 @@ focus_tree = {
         prerequisite = { focus = esk_plan_connections }
         prerequisite = { focus = esk_lake_with_people }
         relative_position_id = esk_plan_connections
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_mend_scars
+        y = 1
+        x = 4
+        cost = 5
+        prerequisite = { focus = esk_plan_connections }
+        prerequisite = { focus = esk_bounty_of_lake }
+        relative_position_id = esk_bounty_of_lake
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_bread_for_people
+        y = 1
+        x = 0
+        cost = 5
+        prerequisite = { focus = esk_mend_scars }
+        relative_position_id = esk_mend_scars
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_capital_refurbishments
+        y = 1
+        x = -2
+        cost = 5
+        prerequisite = { focus = esk_bread_for_people }
+        relative_position_id = esk_bread_for_people
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_northern_reinforcements
+        y = 1
+        x = 0
+        cost = 5
+        prerequisite = { focus = esk_bread_for_people }
+        relative_position_id = esk_bread_for_people
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_supplies_east
+        y = 1
+        x = 2
+        cost = 5
+        prerequisite = { focus = esk_bread_for_people }
+        relative_position_id = esk_bread_for_people
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_economic_revitalization
+        y = 1
+        x = 0
+        cost = 5
+        prerequisite = { focus = esk_capital_refurbishments focus = esk_northern_reinforcements focus = esk_supplies_east }
+        relative_position_id = esk_northern_reinforcements
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+
+
+    focus = {
+        id = esk_expand_across
+        y = 1
+        x = 1
+        cost = 5
+        prerequisite = { focus = esk_bounty_of_lake }
+        relative_position_id = esk_bounty_of_lake
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_secure_homeland
+        y = 1
+        x = -1
+        cost = 5
+        prerequisite = { focus = esk_bounty_of_lake }
+        relative_position_id = esk_bounty_of_lake
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_new_governance
+        y = 1
+        x = 0
+        cost = 5
+        prerequisite = { 
+            focus = esk_the_banquet
+            focus = esk_expand_across
+            focus = esk_secure_homeland
+        }
+        available = {
+            OR = {
+                has_completed_focus = esk_the_banquet
+                AND = {
+                    has_completed_focus = esk_expand_across
+                    has_completed_focus = esk_secure_homeland
+                }
+            }
+        }
+        relative_position_id = esk_secure_homeland
+        mutually_exclusive = { focus = esk_spiritual_unity }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_spiritual_unity
+        y = 1
+        x = 0
+        cost = 5
+        prerequisite = { focus = esk_expand_across }
+        prerequisite = { focus = esk_secure_homeland }
+        relative_position_id = esk_expand_across
+        mutually_exclusive = { focus = esk_new_governance }
+        completion_reward = {
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = esk_new_chapter
+        y = 3
+        x = -1
+        cost = 5
+        prerequisite = { focus = esk_spiritual_unity focus = esk_new_governance }
+        prerequisite = { focus = esk_economic_revitalization }
+        relative_position_id = esk_spiritual_unity
         completion_reward = {
             add_political_power = 50
         }
