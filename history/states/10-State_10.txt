@@ -8,3 +8,8 @@ state={
         manpower=1000
         state_category = rural
 }
+	history={
+		add_core_of = ABC
+		owner = ABC
+	}
+}

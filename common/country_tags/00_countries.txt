@@ -1,3 +1,5 @@
+ABC = "countries/Nomads.txt"
+
 AVI = "countries/Avvnie.txt"
 GRT = "countries/Gartiva.txt"
 BRK = "countries/Barkenia.txt"
