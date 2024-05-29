@@ -8,7 +8,10 @@ set_politics = {
 }
 
 set_popularities = {
-	monarchism = 100
+	monarchism = 70
+	democratic = 10
+	communism = 10
+	neutrality = 10
 }
 
 create_country_leader = {
