@@ -1,0 +1,17 @@
+## GENERATED
+
+LMB = "countries/Lammbouir.txt"
+RUI = "countries/Ruinaires.txt"
+CTL = "countries/Costilliere.txt"
+PIR = "countries/Piratecove.txt"
+UMB = "countries/Unitedmercenaries.txt"
+SGM = "countries/Ösigvmutan.txt"
+NLQ = "countries/Norlorqs.txt"
+UDL = "countries/Uldriklands.txt"
+SUI = "countries/Sarroui.txt"
+ITZ = "countries/Itzerla.txt"
+IQI = "countries/Isletueteriqui.txt"
+NQV = "countries/Norriquiva.txt"
+SQV = "countries/Surriquiva.txt"
+UTV = "countries/Unitrevita.txt"
+FSH = "countries/F'ish.txt"

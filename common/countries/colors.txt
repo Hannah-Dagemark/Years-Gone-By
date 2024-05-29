@@ -34,3 +34,78 @@ GAR = {
 	color = rgb { 255 255 255 }
 	color_ui = rgb { 255 255 255 }
 }
+
+LMB = {
+	color = rgb { 132 112 232 }
+	color_ui = rgb { 132 112 232 }
+}
+
+RUI = {
+	color = rgb { 240 20 110 }
+	color_ui = rgb { 240 20 110 }
+}
+
+CTL = {
+	color = rgb { 180 150 20 }
+	color_ui = rgb { 180 150 20 }
+}
+
+PIR = {
+	color = rgb { 20 20 20 }
+	color_ui = rgb { 20 20 20 }
+}
+
+UMB = {
+	color = rgb { 70 5 10 }
+	color_ui = rgb { 70 5 10 }
+}
+
+SGM = {
+	color = rgb { 250 }
+	color_ui = rgb { 250 }
+}
+
+NLQ = {
+	color = rgb { 101 202 162 }
+	color_ui = rgb { 101 202 162 }
+}
+
+UDL = {
+	color = rgb { 50 198 23 }
+	color_ui = rgb { 50 198 23 }
+}
+
+SUI = {
+	color = rgb { 20 30 220 }
+	color_ui = rgb { 20 30 220 }
+}
+
+ITZ = {
+	color = rgb { 151 }
+	color_ui = rgb { 151 }
+}
+
+IQI = {
+	color = rgb { 51 231 24 }
+	color_ui = rgb { 51 231 24 }
+}
+
+NQV = {
+	color = rgb { 245 21 163 }
+	color_ui = rgb { 245 21 163 }
+}
+
+SQV = {
+	color = rgb { 210 102 42 }
+	color_ui = rgb { 210 102 42 }
+}
+
+UTV = {
+	color = rgb { 102 203 153 }
+	color_ui = rgb { 102 203 153 }
+}
+
+FSH = {
+	color = rgb { 23 32 202 }
+	color_ui = rgb { 23 32 202 }
+}
