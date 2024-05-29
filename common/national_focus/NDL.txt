@@ -1,0 +1,196 @@
+﻿### search_filters = {FOCUS_FILTER_POLITICAL}
+### search_filters = {FOCUS_FILTER_RESEARCH}
+### search_filters = {FOCUS_FILTER_INDUSTRY}
+### search_filters = {FOCUS_FILTER_STABILITY}
+### search_filters = {FOCUS_FILTER_WAR_SUPPORT}
+### search_filters = {FOCUS_FILTER_MANPOWER}
+### search_filters = {FOCUS_FILTER_ANNEXATION}
+
+focus_tree = {
+	id = nederland_focus
+	
+	country = {
+		factor = 0
+		modifier = {
+        	add = 20
+        	original_tag = NDL
+    	}
+	}
+	
+	default = no
+
+	continuous_focus_position = { x = 50 y = 1500 }
+
+
+	focus = {
+		id = NDL_praise_the_throne
+		
+		icon = GFX_focus_generic_monarchy_1
+		x = 8
+		y = 0
+		cost = 5
+
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_popularity = {
+				ideology = monarchism
+				popularity = 0.15
+			}
+		}
+	}
+
+	focus = {
+		id = NDL_begin_colonialist_policies
+
+		icon = GFX_focus_generic_merchant_fleet
+		x = 6
+		y = 2
+		cost = 10
+
+		prerequisite = {focus = NDL_praise_the_throne}
+		available_if_capitulated = no
+
+		completion_reward = {
+			random_core_state = {
+				prioritize = { 624 }
+				limit = {
+					is_fully_controlled_by = ROOT
+				}
+				add_extra_state_shared_building_slots = 2
+				add_building_construction = {
+					type = dockyard
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+
+	}
+
+	focus = {
+		id = NDL_claim_the_shetland_islands
+
+		icon = GFX_focus_ICE_securing_the_north_sea_passage
+		x = 6
+		y = 3
+		cost = 10
+
+		prerequisite = {focus = NDL_begin_colonialist_policies}
+		available_if_capitulated = no
+
+		completion_reward = {
+			add_state_core = 183
+			transfer_state = 183
+		}
+
+	}
+
+	focus = {
+		id = NDL_expand_shetland_infrastructure
+
+		icon = GFX_focus_generic_industry_1
+		x = 6
+		y = 4
+		cost = 5
+
+		prerequisite = {focus = NDL_claim_the_shetland_islands}
+		available_if_capitulated = no
+
+		completion_reward = {
+			183 = {
+				limit = {
+					is_fully_controlled_by = ROOT
+				}
+				add_extra_state_shared_building_slots = 2
+				add_building_construction = {
+					type = infrastructure
+					level = 1
+					instant_build = yes
+				}
+			}
+		}
+
+	}
+
+	focus = {
+		id = NDL_expand_shetland_infrastructure_2
+
+		icon = GFX_focus_generic_industry_2
+		x = 6
+		y = 5
+		cost = 5
+
+		prerequisite = {focus = NDL_expand_shetland_infrastructure}
+		available_if_capitulated = no
+
+		completion_reward = {
+			183 = {
+				limit = {
+					is_fully_controlled_by = ROOT
+				}
+				add_building_construction = {
+					type = infrastructure
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+
+	}
+
+	focus = {
+		id = NDL_expand_shetland_infrastructure_3
+
+		icon = GFX_focus_generic_industry_3
+		x = 6
+		y = 6
+		cost = 10
+
+		prerequisite = {focus = NDL_expand_shetland_infrastructure_2}
+		available_if_capitulated = no
+
+		completion_reward = {
+			183 = {
+				limit = {
+					is_fully_controlled_by = ROOT
+				}
+				add_building_construction = {
+					type = industrial_complex
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+
+	}
+
+	focus = {
+		id = NDL_expand_industry
+
+		icon = GFX_focus_generic_industry_1
+		x = 10
+		y = 2
+		cost = 10
+
+		prerequisite = {focus = NDL_praise_the_throne}
+		available_if_capitulated = no
+
+		completion_reward = {
+			183 = {
+				limit = {
+					is_fully_controlled_by = ROOT
+				}
+				add_extra_state_shared_building_slots = 2
+				add_building_construction = {
+					type = industrial_complex
+					level = 2
+					instant_build = yes
+				}
+			}
+		}
+
+	}
+
+
+}
