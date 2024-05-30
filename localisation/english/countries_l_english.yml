@@ -100,3 +100,65 @@
   
  LIC_neutrality:0 "The Lesser Confederation of Island Principalities"
  LIC_neutrality_DEF:0 "The Lesser Confederation of Island Principalities"
+
+ ### Generated
+
+ LMB_neutrality:0 "Lammbouir"
+ LMB_neutrality_DEF:0 "Lammbouir"
+ 
+ RUI_neutrality:0 "Ruinaires"
+ RUI_neutrality_DEF:0 "Ruinaires"
+ 
+ CTL_neutrality:0 "Costilliere"
+ CTL_neutrality_DEF:0 "Costilliere"
+ 
+ PIR_neutrality:0 "Pirate Cove"
+ PIR_neutrality_DEF:0 "The Merchant cove of Pirates"
+ 
+ UMB_neutrality:0 "United Mercenary Bands"
+ UMB_neutrality_DEF:0 "The Union of Mercenary Bands"
+ 
+ SGM_neutrality:0 "Ösigvmutan"
+ SGM_neutrality_DEF:0 "Dae Ösigvmutan Kvutiz"
+ 
+ NLQ_neutrality:0 "Norlorqs"
+ NLQ_neutrality_DEF:0 "Norlorqs"
+ 
+ UDL_neutrality:0 "Uldrikland"
+ UDL_neutrality_DEF:0 "Landen af Uldrik denne Store"
+ 
+ SUI_neutrality:0 "Sarroui"
+ SUI_neutrality_DEF:0 "Sarroui"
+ 
+ ITZ_neutrality:0 "Itzerla"
+ ITZ_neutrality_DEF:0 "Aev't Itzerli Kivmacosta"
+ 
+ IQI_neutrality:0 "Isletueteriqui"
+ IQI_neutrality_DEF:0 "Islatae Isletueteriqui Quimon Qui"
+ 
+ NQV_neutrality:0 "Norriquiva Militaritzia General"
+ NQV_neutrality_DEF:0 "Generalitz Militaritzia d' Norriquiva"
+ 
+ SQV_neutrality:0 "Surriquiva acombatro a folgas"
+ SQV_neutrality_DEF:0 "Al acombatro a de folgas Surriquiva"
+ 
+ UTV_neutrality:0 "Unitrevita"
+ UTV_neutrality:0 "Unitrevita"
+
+ FSH_neutrality:0 "F'ish"
+ FSH_neutrality_DEF:0 "Union of F'ish people"
+ 
+ FAL_neutrality:0 "Falandia"
+ FAL_neutrality_DEF:0 "The Grand Duchy of Falandia"
+
+ SVL_neutrality:0 "Sarvundland"
+ SVL_neutrality_DEF:0 "Der treue land af Sarvund"
+
+ TTR_neutrality:0 "The Tall Republic"
+ TTR_neutrality_DEF:0 "The Democratic Union of The Mountains"
+
+ GTL_neutrality:0 "Gaestertland"
+ GTL_neutrality_DEF:0 "Landet av die stoere Gaestert"
+
+ GCT_neutrality:0 "Günther Cult"
+ GCT_neutrality_DEF:0 "The cult of Günther"

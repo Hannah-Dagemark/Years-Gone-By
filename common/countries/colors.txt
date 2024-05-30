@@ -109,3 +109,28 @@ FSH = {
 	color = rgb { 23 32 202 }
 	color_ui = rgb { 23 32 202 }
 }
+
+FAL = {
+	color = rgb { 202 200 121 }
+	color_ui = rgb { 202 200 121 }
+}
+
+SVL = {
+	color = rgb { 102 103 94 }
+	color_ui = rgb { 102 103 94 }
+}
+
+TTR = {
+	color = rgb { 21 21 202 }
+	color_ui = rgb { 21 21 202 }
+}
+
+GTL = {
+	color = rgb { 221 }
+	color_ui = rgb { 221 }
+}
+
+GCT = {
+	color = rgb { 21 31 102 }
+	color_ui = rgb { 21 31 102 }
+}

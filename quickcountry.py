@@ -48,7 +48,13 @@ def states():
             file = open(f"./history/states/{state}-State_{state}.txt", "w")
             file.write(content)
         file.close()
+
+def localisation():
+    file = open("./localisation/english/countries_l_english.yml", "a")
+    file.write(f"\n\n {c_tag}_neutrality:0 \"{c_name}\"\n {c_tag}_neutrality_DEF:0 \"{c_def}\"")
+    file.close
         
 common()
 hist()
 states()
+localisation()
