@@ -134,3 +134,163 @@ GCT = {
 	color = rgb { 21 31 102 }
 	color_ui = rgb { 21 31 102 }
 }
+
+LSA = {
+	color = rgb { 232 212 192 }
+	color_ui = rgb { 232 212 192 }
+}
+
+VTR = {
+	color = rgb { 58 49 21 }
+	color_ui = rgb { 58 49 21 }
+}
+
+JHT = {
+	color = rgb { 201 201 102 }
+	color_ui = rgb { 201 201 102 }
+}
+
+SSE = {
+	color = rgb { 201 102 101 }
+	color_ui = rgb { 201 102 101 }
+}
+
+AGT = {
+	color = rgb { 52 203 23 }
+	color_ui = rgb { 52 203 23 }
+}
+
+KGI = {
+	color = rgb { 102 102 211 }
+	color_ui = rgb { 102 102 211 }
+}
+
+AEN = {
+	color = rgb { 21 201 102 }
+	color_ui = rgb { 21 201 102 }
+}
+
+IKN = {
+	color = rgb { 201 95 49 }
+	color_ui = rgb { 201 95 49 }
+}
+
+SMT = {
+	color = rgb { 20 220 30 }
+	color_ui = rgb { 20 220 30 }
+}
+
+GTL = {
+	color = rgb { 23 32 234 }
+	color_ui = rgb { 23 32 234 }
+}
+
+OLL = {
+	color = rgb { 102 20 232 }
+	color_ui = rgb { 102 20 232 }
+}
+
+SSN = {
+	color = rgb { 232 201 100 }
+	color_ui = rgb { 232 201 100 }
+}
+
+SKT = {
+	color = rgb { 201 44 56 }
+	color_ui = rgb { 201 44 56 }
+}
+
+GAT = {
+	color = rgb { 102 232 20 }
+	color_ui = rgb { 102 232 20 }
+}
+
+DNS = {
+	color = rgb { 20 32 209 }
+	color_ui = rgb { 20 32 209 }
+}
+
+FBS = {
+	color = rgb { 201 210 83 }
+	color_ui = rgb { 201 210 83 }
+}
+
+SKR = {
+	color = rgb { 202 55 234 }
+	color_ui = rgb { 202 55 234 }
+}
+
+DVN = {
+	color = rgb { 6 2 100 }
+	color_ui = rgb { 6 2 100 }
+}
+
+GTK = {
+	color = rgb { 196 102 243 }
+	color_ui = rgb { 196 102 243 }
+}
+
+GNK = {
+	color = rgb { 20 20 178 }
+	color_ui = rgb { 20 20 178 }
+}
+
+DVM = {
+	color = rgb { 103 51 47 }
+	color_ui = rgb { 103 51 47 }
+}
+
+VMK = {
+	color = rgb { 230 240 230 }
+	color_ui = rgb { 230 240 230 }
+}
+
+KKT = {
+	color = rgb { 111 234 220 }
+	color_ui = rgb { 111 234 220 }
+}
+
+MKN = {
+	color = rgb { 103 104 101 }
+	color_ui = rgb { 103 104 101 }
+}
+
+SJB = {
+	color = rgb { 68 250 102 }
+	color_ui = rgb { 68 250 102 }
+}
+
+ERS = {
+	color = rgb { 102 206 25 }
+	color_ui = rgb { 102 206 25 }
+}
+
+SSS = {
+	color = rgb { 203 161 186 }
+	color_ui = rgb { 203 161 186 }
+}
+
+SBG = {
+	color = rgb { 162 207 57 }
+	color_ui = rgb { 162 207 57 }
+}
+
+KLG = {
+	color = rgb { 103 32 214 }
+	color_ui = rgb { 103 32 214 }
+}
+
+SST = {
+	color = rgb { 51 26 185 }
+	color_ui = rgb { 51 26 185 }
+}
+
+KLV = {
+	color = rgb { 51 87 51 }
+	color_ui = rgb { 51 87 51 }
+}
+
+KTN = {
+	color = rgb { 230 21 61 }
+	color_ui = rgb { 230 21 61 }
+}

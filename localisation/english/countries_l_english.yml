@@ -162,3 +162,99 @@
 
  GCT_neutrality:0 "GÃ¼nther Cult"
  GCT_neutrality_DEF:0 "The cult of GÃ¼nther"
+
+ LSA_neutrality:0 "Linguisatia"
+ LSA_neutrality_DEF:0 "TheTrueBelievers"
+
+ VTR_neutrality:0 "Vasterreich"
+ VTR_neutrality_DEF:0 "Der Västerreich"
+
+ JHT_neutrality:0 "Jaggdhunt"
+ JHT_neutrality_DEF:0 "Jaggdhuntsgruppen"
+
+ SSE_neutrality:0 "SchiffesEinlass"
+ SSE_neutrality_DEF:0 "SchiffesEinlassrepublik"
+
+ AGT_neutrality:0 "Aggatten"
+ AGT_neutrality_DEF:0 "Der Königsreich Aggatten"
+
+ KGI_neutrality:0 "Kolgi"
+ KGI_neutrality_DEF:0 "Kolgi Karavazt"
+
+ AEN_neutrality:0 "Anetian"
+ AEN_neutrality_DEF:0 "Anetian Underrepublik"
+
+ IKN_neutrality:0 "Intkarnen"
+ IKN_neutrality_DEF:0 "Der Grossreich Intkarnen"
+
+ SMT_neutrality:0 "Skogsmakten"
+ SMT_neutrality_DEF:0 "Makten av Skogens Undersåtar"
+
+ GTL_neutrality:0 "Gotaland"
+ GTL_neutrality_DEF:0 "Kungadömmet Götaland"
+
+ OLL_neutrality:0 "Olofsland"
+ OLL_neutrality_DEF:0 "Olofs land"
+
+ SSN_neutrality:0 "Sashanation"
+ SSN_neutrality_DEF:0 "Sashanation"
+
+ SKT_neutrality:0 "Storkusten"
+ SKT_neutrality_DEF:0 "Den Stora Kusten"
+
+ GAT_neutrality:0 "Grunnnarten"
+ GAT_neutrality_DEF:0 "Grunnartenerz"
+
+ DNS_neutrality:0 "Disunited Northern Strongholds"
+ DNS_neutrality_DEF:0 "The Disunited Northern Strongholds"
+
+ FBS_neutrality:0 "Fjellbyestaten"
+ FBS_neutrality_DEF:0 "Fjellbyebyerne"
+
+ SKR_neutrality:0 "Storkratern"
+ SKR_neutrality_DEF:0 "Stora Söderkratern"
+
+ DVN_neutrality:0 "DjurVannerna"
+ DVN_neutrality_DEF:0 "Djur vännerna "
+
+ GTK_neutrality:0 "Gustafskust"
+ GTK_neutrality_DEF:0 "Gustafs Kustliga Kungadömme"
+
+ GNK_neutrality:0 "Grenakusten"
+ GNK_neutrality_DEF:0 "Grenakusten"
+
+ DVM_neutrality:0 "DavidssonsMark"
+ DVM_neutrality_DEF:0 "Davidssons Marken"
+
+ VMK_neutrality:0 "Visbys Militar kommando"
+ VMK_neutrality_DEF:0 "Det Överlevande Militärkommandot, Visby"
+
+ KKT_neutrality:0 "Karls Kungatron"
+ KKT_neutrality_DEF:0 "Kungatronen av Karl den Store"
+
+ MKN_neutrality:0 "MellanKlammern"
+ MKN_neutrality_DEF:0 "Mellanklammerstaten"
+
+ SJB_neutrality:0 "StorJohansBy"
+ SJB_neutrality_DEF:0 "Byn av StorJohan"
+
+ ERS_neutrality:0 "EriksStad"
+ ERS_neutrality_DEF:0 "Eriksstaden"
+
+ SSS_neutrality:0 "Stor Staten Sofie"
+ SSS_neutrality_DEF:0 "Store Staten Sofie"
+
+ SBG_neutrality:0 "Storbergen"
+ SBG_neutrality_DEF:0 "De Store Bergens Konungaland"
+
+ KLG_neutrality:0 "Kartlannegutt "
+ KLG_neutrality_DEF:0 "Kartlannegutten"
+
+ SST_neutrality:0 "Sidstaratinan"
+ SST_neutrality_DEF:0 "Denne Sidstaratinan"
+
+ KLV_neutrality:0 "Kvareleveran"
+ KLV_neutrality_DEF:0 "Kvara dea leva saegen"
+
+ KTN_neutrality:0 "Kanten"
+ KTN_neutrality_DEF:0 "Soere Kanten"

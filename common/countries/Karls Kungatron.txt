@@ -1,6 +1,6 @@
-#Günther Cult
+#Karls Kungatron
 
 graphical_culture = western_european_gfx
 graphical_culture_2d = western_european_2d
 
-color = { 21 31 102 }
+color = { 111 234 220 }
