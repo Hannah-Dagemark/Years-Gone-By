@@ -1,0 +1,18 @@
+opinion_modifiers = {
+    current_ruler_negative = {
+        value = -50
+        days = 181
+    }
+    long_ruler_negative = {
+        value = -100
+        days = 181
+    }
+    bid_for_change = {
+        value = 25
+        days = 181
+    }
+    moderate_campaign = {
+        value = 25
+        days = 181
+    }
+}

@@ -1,0 +1,255 @@
+floddstatt_general = {
+  fg_capital_encouragement = {
+        available = {
+            has_idea = floddstatt_leader
+        }
+        complete_effect = {
+            add_political_power = -100
+        }
+    }
+
+    fg_election = {
+        activation = {
+            always = no
+        }
+        visible = {
+            always = yes
+        }
+        available = {
+            always = no
+        }
+        icon = mission_icon
+        is_good = yes
+        days_mission_timeout = 180
+        complete_effect = {
+            add_political_power = 100
+            country_event = { id = floddstatt.1 }
+        }
+    }
+
+    grt_fg_campaign_across_the_border_ = {
+
+		icon = eng_propaganda_campaigns
+
+		days_remove = 20
+
+		available = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+			OR = {
+				political_power_daily > 0.25
+				has_political_power > 20
+			}
+		}
+
+		visible = {
+            original_tag = GRT
+		}
+
+		# target_array = subjects #Turn into some sort of floddstatt list maybe?
+
+		target_trigger = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+		}
+
+		complete_effect = {
+            add_political_power = -5
+			flod_grt_support_grow_s = yes
+            custom_effect_tooltip = flod_add_support_s
+		}
+        
+		modifier = {
+			political_power_cost = 0.2
+		}
+
+		ai_will_do = {
+            factor = 1
+            modifier = { political_power_daily < 0.6 factor = 0}
+            modifier = { political_power_daily > 1  factor = 0}
+		}
+	}
+
+    brk_fg_campaign_across_the_border_ = {
+
+		icon = eng_propaganda_campaigns
+
+		days_remove = 20
+
+		available = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+			OR = {
+				political_power_daily > 0.25
+				has_political_power > 20
+			}
+		}
+
+		visible = {
+            original_tag = BRK
+		}
+
+		# target_array = subjects #Turn into some sort of floddstatt list maybe?
+
+		target_trigger = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+		}
+
+		complete_effect = {
+            add_political_power = -5
+			flod_brk_support_grow_s = yes
+            custom_effect_tooltip = flod_add_support_s
+		}
+        
+		modifier = {
+			political_power_cost = 0.2
+		}
+
+		ai_will_do = {
+            factor = 1
+            modifier = { political_power_daily < 0.6 factor = 0}
+            modifier = { political_power_daily > 1  factor = 0}
+		}
+	}
+
+    
+    cum_fg_campaign_across_the_border_ = {
+
+		icon = eng_propaganda_campaigns
+
+		days_remove = 20
+
+		available = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+			OR = {
+				political_power_daily > 0.25
+				has_political_power > 20
+			}
+		}
+
+		visible = {
+            original_tag = CUM
+		}
+
+		# target_array = subjects #Turn into some sort of floddstatt list maybe?
+
+		target_trigger = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+		}
+
+		complete_effect = {
+            add_political_power = -5
+			flod_cum_support_grow_s = yes
+            custom_effect_tooltip = flod_add_support_s
+		}
+        
+		modifier = {
+			political_power_cost = 0.2
+		}
+
+		ai_will_do = {
+            factor = 1
+            modifier = { political_power_daily < 0.6 factor = 0}
+            modifier = { political_power_daily > 1  factor = 0}
+		}
+	}
+
+    lan_fg_campaign_across_the_border_ = {
+
+		icon = eng_propaganda_campaigns
+
+		days_remove = 20
+
+		available = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+			OR = {
+				political_power_daily > 0.25
+				has_political_power > 20
+			}
+		}
+
+		visible = {
+            original_tag = LAN
+		}
+
+		# target_array = subjects #Turn into some sort of floddstatt list maybe?
+
+		target_trigger = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+		}
+
+		complete_effect = {
+            add_political_power = -5
+			flod_lan_support_grow_s = yes
+            custom_effect_tooltip = flod_add_support_s
+		}
+        
+		modifier = {
+			political_power_cost = 0.2
+		}
+
+		ai_will_do = {
+            factor = 1
+            modifier = { political_power_daily < 0.6 factor = 0}
+            modifier = { political_power_daily > 1  factor = 0}
+		}
+	}
+
+    avi_fg_campaign_across_the_border_ = {
+
+		icon = eng_propaganda_campaigns
+
+		days_remove = 20
+
+		available = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+			OR = {
+				political_power_daily > 0.25
+				has_political_power > 20
+			}
+		}
+
+		visible = {
+            original_tag = AVI
+		}
+
+		# target_array = subjects #Turn into some sort of floddstatt list maybe?
+
+		target_trigger = {
+			FROM = {
+				has_idea = floddstatt_member
+			}
+		}
+
+		complete_effect = {
+            add_political_power = -5
+			flod_avi_support_grow_s = yes
+            custom_effect_tooltip = flod_add_support_s
+		}
+        
+		modifier = {
+			political_power_cost = 0.2
+		}
+
+		ai_will_do = {
+            factor = 1
+            modifier = { political_power_daily < 0.6 factor = 0}
+            modifier = { political_power_daily > 1  factor = 0}
+		}
+	}
+}

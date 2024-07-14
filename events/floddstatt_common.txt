@@ -1,0 +1,24 @@
+add_namespace = floddstatt
+
+country_event = {
+    id = floddstatt.1
+    title = floddstatt.1.t
+    desc = floddstatt.1.desc
+    picture = GFX_report_event_generic_picture
+
+    is_triggered_only = yes
+
+    trigger = {
+        has_completed_mission = floddstatt_general_fg_vote
+    }
+
+    immediate = {
+        # Add any immediate effects here
+    }
+
+    option = {
+        name = floddstatt.1.a
+        flod_set_election_standard = yes
+        activate_mission = fg_election
+    }
+}

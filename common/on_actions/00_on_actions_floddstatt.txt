@@ -1,0 +1,14 @@
+on_actions = {
+    on_startup = {
+        effect = {
+            every_country = {
+                limit = {
+                    has_idea = floddstatt_member
+                }
+                flod_set_election_standard = yes
+                country_event = { id = floddstatt.1 }
+                activate_mission = fg_election
+            }
+        }
+    }
+}

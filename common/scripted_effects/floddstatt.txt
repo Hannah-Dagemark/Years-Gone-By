@@ -1,0 +1,80 @@
+flod_set_election_standard = {
+    set_country_flag = flod_elections_in_motion_flag
+    set_variable = { GRT_ele_support = 1 }
+    set_variable = { BRK_ele_support = 1 }
+    set_variable = { CUM_ele_support = 1 }
+    set_variable = { LAN_ele_support = 1 }
+    set_variable = { AVI_ele_support = 1 }
+}
+
+### Add Support For Nation In Floddstatt
+
+# GRT 
+
+flod_grt_support_grow_s = {
+    add_to_variable = { GRT_ele_support = 1}
+}
+
+flod_grt_support_grow_m = {
+    add_to_variable = { GRT_ele_support = 3}
+}
+
+flod_grt_support_grow_l = {
+    add_to_variable = { GRT_ele_support = 5}
+}
+
+# BRK
+
+flod_brk_support_grow_s = {
+    add_to_variable = { BRK_ele_support = 1}
+}
+
+flod_brk_support_grow_m = {
+    add_to_variable = { BRK_ele_support = 3}
+}
+
+flod_brk_support_grow_l = {
+    add_to_variable = { BRK_ele_support = 5}
+}
+
+# CUM ;3
+
+flod_cum_support_grow_s = {
+    add_to_variable = { CUM_ele_support = 1}
+}
+
+flod_cum_support_grow_m = {
+    add_to_variable = { CUM_ele_support = 3}
+}
+
+flod_cum_support_grow_l = {
+    add_to_variable = { CUM_ele_support = 5}
+}
+
+# LAN
+
+flod_lan_support_grow_s = {
+    add_to_variable = { LAN_ele_support = 1}
+}
+
+flod_lan_support_grow_m = {
+    add_to_variable = { LAN_ele_support = 3}
+}
+
+flod_lan_support_grow_l = {
+    add_to_variable = { LAN_ele_support = 5}
+}
+
+# AVI
+
+flod_avi_support_grow_s = {
+    add_to_variable = { AVI_ele_support = 1}
+}
+
+flod_avi_support_grow_m = {
+    add_to_variable = { AVI_ele_support = 3}
+}
+
+flod_avi_support_grow_l = {
+    add_to_variable = { AVI_ele_support = 5}
+}
