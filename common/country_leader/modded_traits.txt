@@ -1,0 +1,66 @@
+leader_traits = {
+
+   lieutenant_of_industry2 = {
+        sprite = 10
+        random = no
+        production_speed_industrial_complex_factor = 0.1
+        production_speed_infrastructure_factor = 0.1
+        production_speed_rail_way_factor = 0.1
+        production_speed_synthetic_refinery_factor = 0.1
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+    lieutenant_of_industry3 = {
+        sprite = 10
+        random = no
+        production_speed_industrial_complex_factor = 0.15
+        production_speed_infrastructure_factor = 0.15
+        production_speed_rail_way_factor = 0.15
+        production_speed_synthetic_refinery_factor = 0.15
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+    Idustry_yeas = {
+        sprite = 10
+        random = no
+        production_speed_infrastructure_factor = 0.1
+        production_industrial_complex_factor = 0.1
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+	Army_generall = {
+        sprite = 10
+        random = no
+        army_attack_factor = 0.05
+        army_defence_factor = 0.05
+        org_loss_when_moving = 0.1
+        land_reinforce_rate = 0.1
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+    PP_giver = {
+        sprite = 10
+        random = no
+        political_power_gain = 0.2
+
+        ai_will_do = {
+            factor = 1
+        }
+    }
+
+
+
+}

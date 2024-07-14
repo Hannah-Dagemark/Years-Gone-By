@@ -258,3 +258,93 @@
 
  KTN_neutrality:0 "Kanten"
  KTN_neutrality_DEF:0 "Soere Kanten"
+
+ CLA_neutrality:0 "Courlia"
+ CLA_neutrality_DEF:0 "Courlian Republic"
+
+ ACE_neutrality:0 "Acriczte"
+ ACE_neutrality_DEF:0 "Acriczte Merchants Union"
+
+ CMA_neutrality:0 "Crezmia"
+ CMA_neutrality_DEF:0 "Crezmian Island Kingdom"
+
+ UKH_neutrality:0 "Utssig Khaganate"
+ UKH_neutrality_DEF:0 "Utssig Khaganate"
+
+ TZA_neutrality:0 "Tzerlia"
+ TZA_neutrality_DEF:0 "Tzerlian Watocracy"
+
+ LIU_neutrality:0 "Liuquarden"
+ LIU_neutrality_DEF:0 "Liuquarden Watocracy"
+
+ KGE_neutrality:0 "Karguele"
+ KGE_neutrality_DEF:0 "Karguele Watocracy"
+
+ KLA_neutrality:0 "Karlenia"
+ KLA_neutrality_DEF:0 "Karlenian Kaiserreich"
+
+ LUA_neutrality:0 "Luthria"
+ LUA_neutrality_DEF:0 "Luthria"
+
+ MIN_neutrality:0 "Minska"
+ MIN_neutrality_DEF:0 "Minska"
+
+ KAA_neutrality:0 "Karlia"
+ KAA_neutrality_DEF:0 "Karlia"
+
+ MEN_neutrality:0 "Mergan"
+ MEN_neutrality_DEF:0 "Mergan"
+
+ VYE_neutrality:0 "Vyrrian Empire"
+ VYE_neutrality_DEF:0 "Vyrrian Empire"
+
+ NVT_neutrality:0 "NavalTribes"
+ NVT_neutrality_DEF:0 "1345"
+
+ FGC_neutrality:0 "Federation of Greek Cities"
+ FGC_neutrality_DEF:0 "Greek Federation"
+
+ AII_neutrality:0 "Akiri"
+ AII_neutrality_DEF:0 "Akiria"
+
+ VNA_neutrality:0 "Vanetia"
+ VNA_neutrality_DEF:0 "Vanetian Islands"
+
+ CEI_neutrality:0 "Celinia"
+ CEI_neutrality_DEF:0 "Celiniana"
+
+ GCY_neutrality:0 "Golden City"
+ GCY_neutrality_DEF:0 "Golden City"
+
+ MAL_neutrality:0 "Maltia"
+ MAL_neutrality_DEF:0 "Maltia"
+
+ ILI_neutrality:0 "Islas Lisabona"
+ ILI_neutrality_DEF:0 "Islas de Lisabona"
+
+ KKA_neutrality:0 "Kalvi Khanate"
+ KKA_neutrality_DEF:0 "Kalvi Khanate"
+
+ CUU_neutrality:0 "Cuulia"
+ CUU_neutrality_DEF:0 "Cuulian Regency"
+
+ FIN_neutrality:0 "Finlandia"
+ FIN_neutrality_DEF:0 "Finlandia"
+
+ RIG_neutrality:0 "Rigua"
+ RIG_neutrality_DEF:0 "Rigua"
+
+ CEE_neutrality:0 "Castyrian Empire"
+ CEE_neutrality_DEF:0 "Castyrian Empire"
+
+ ZDS_neutrality:0 "Zaladoslavie"
+ ZDS_neutrality_DEF:0 "Zaladoslaive Zalazka"
+
+ RDS_neutrality:0 "Regencia del sud"
+ RDS_neutrality_DEF:0 "Regencia del sud"
+
+ GAL_neutrality:0 "Galicia"
+ GAL_neutrality_DEF:0 "Galician Republic"
+
+ ISL_neutrality:0 "Ísland"
+ ISL_neutrality_DEF:0 "Islandsstati"

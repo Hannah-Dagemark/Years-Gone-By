@@ -1,0 +1,334 @@
+﻿l_english:
+
+ 
+ BeGood:0 "Internal Focus"
+ BeGoodMore:0 "Secure our Borders"
+ BeGoodMore2:0 "Befriend our Neighbours"
+ BeGoodMore3:0 "Open Up Trade"
+ BeGoodMore4:0 "The Defence of our Nation"
+ 
+ BeBad:0 "External Focus"
+ BeBadMore:0 "Expand our Borders"
+ BeBadMore2:0 "Agitate our Neighbours"
+ BeBadMore3:0 "Subjugate the Weak"
+ BeBadMore4:0 "An Army on the Move"
+ 
+ GreatPowerStatus:0 "A Great Power is Born"
+ 
+ 
+ 
+ Pol_Net:0 "Monarchy on the Rise"
+ Pol_NetWait:0 "Wait for the inevitable"
+ Pol_NetNow:0 "A coup d'état"
+ Pol_NetCiv:0 "Fight for The King"
+ Pol_NetWin:0 "Crown the King"
+ 
+ Pol_Net4:0 "Our Nation"
+ Pol_Net5:0 "Our People"
+ Pol_Net6:0 "Our Safety"
+ 
+ Pol_Net1:0 "The King's Promises"
+ Pol_Net2:0 "The King's Delivery"
+ Pol_Net3:0 "The Future is Already Here"
+ 
+ Pol_Net7:0 "Our Borders"
+ Pol_Net8:0 "Our King's Claims"
+ Pol_Net9:0 "The Spoils of War"
+ 
+ 
+ 
+ Pol_Com:0 "The Unions Organize"
+ Pol_ComWait:0 "Wait for the Inevitable"
+ Pol_ComNow:0 "Depose the Bourgeoisie"
+ Pol_ComCiv:0 "The Streets run Red"
+ Pol_ComWin:0 "A Victorious Proletariat"
+ 
+ Pol_Com4:0 "The Worker's Militias"
+ Pol_Com5:0 "The Red Defence Force"
+ Pol_Com6:0 "The Protectors of the People"
+ 
+ Pol_Com1:0 "Nationalise Factories"
+ Pol_Com2:0 "Instate the Mandatory National Union"
+ Pol_Com3:0 "A Marxist Economist"
+ 
+ Pol_Com7:0 "A Revolution without Borders"
+ Pol_Com8:0 "The Chairman, A Hero"
+ Pol_Com9:0 "Continue the Crusade against Fascism"
+ 
+ 
+ 
+ Pol_Fas:0 "Riots in [Root.Capital.GetName]"
+ Pol_FasWait:0 "Patience is Key"
+ Pol_FasNow:0 "Depose [Root.GetLeader]"
+ Pol_FasCiv:0 "Arm The Militias"
+ Pol_FasWin:0 "All Power to the [Root.GetFascistParty]"
+ 
+ Pol_Fas4:0 "[Root.GetName]'s Security"
+ Pol_Fas5:0 "[Root.GetName]'s Safety"
+ Pol_Fas6:0 "[Root.GetName]'s Pride"
+ 
+ Pol_Fas1:0 "The flag shall Fly"
+ Pol_Fas2:0 "The People shall Progress"
+ Pol_Fas3:0 "and The Military shall Prosper"
+ 
+ Pol_Fas7:0 "[Root.GetName]'s History"
+ Pol_Fas8:0 "[Root.GetName]'s Glory"
+ Pol_Fas9:0 "[Root.GetName]'s Military"
+ 
+ 
+ 
+ Pol_Dem:0 "The People's Nation"
+ Pol_DemWait:0 "The Art of Demonstrating"
+ Pol_DemNow:0 "For all of our's Future"
+ Pol_DemCiv:0 "Organize against the Tyrrany"
+ Pol_DemWin:0 "The Democratic Cabinet"
+ 
+ Pol_Dem1:0 "Our Great Nation"
+ Pol_Dem2:0 "An Uppgraded Freedom" 
+ Pol_Dem3:0 "Intelligence In Numbers" 
+ 
+ Pol_Dem4:0 "A Bigger Industry"
+ Pol_Dem5:0 "A Boost In Our Resources"
+ Pol_Dem6:0  "University Of The Free" 
+ 
+ Pol_Dem7:0 "Technology For The Army"
+ Pol_Dem8:0 "Our Guardians Shall Rise"
+ Pol_Dem9:0 "The Great Defenders Of Freedom"
+ 
+ 
+ GiveInf:0 "Connect the Smaller Villages"
+ GiveInf2:0 "New Interstate Highway"
+ GiveInf3:0 "Connect Prospering Towns"
+ 
+ GiveFac:0 "The Workers of Those Towns..."
+ GiveFac2:0 "... And Their Factories"
+ GiveFac3:0 "Must Expand!"
+ 
+ GiveMil:0 "Install Munitions Depots"
+ GiveMil2:0 "Reorganize The Factories"
+ GiveMil3:0 "Expand the Military Budget"
+ 
+ GiveTrait1:0 "Educate the Cabinet"
+ GiveTrait2:0 "Position Based on Competence"
+ GiveTrait3:0 "Focus on the Nation"
+ 
+ 
+ GiveBuffBuild:0 "Advancements of Construction"
+ GiveBuffBuild2:0 "Spearhead Modern Building Techniques"
+ GiveBuffBuild3:0 "The Tools of a Worker"
+ 
+ 
+ 
+ ex_tech:0 "Advance Electronics"
+ ex_tech2:0 "The Grand University of [Root.Capital.GetName]"
+ ex_tech3:0 "The New Way of Flying"
+ ex_tech4:0 "The weapon we must avoid"
+ ex_tech5:0 "The weapon we must Aquire"
+ ex_tech6:0 "A leader of the Future"
+ ex_tech7:0 "Re-Model Education"
+ 
+ 
+ 
+ NeedMan:0 "Increase the Trained Reservists"
+ 
+ NeedMan2:0 "Harsh Quotas"
+ NeedMan7:0 "Foreign Labour"
+ Manpower1:0 "Foreign Manpower"
+ Manpower2:0 "Foreign Soldiers"
+ 
+ NeedMan3:0 "A People's Army"
+ NeedMan6:0 "Fight for the Motherland"
+ Manpower3:0 "Draft Of The Locals"
+ Manpower4:0 "The Local Soldiers"
+ 
+ NeedMan4:0 "More Soldiers For The Army"
+ NeedMan5:0 "An Agreement About The Conscription"
+ Manpower5:0 "Army Draft"
+ Manpower6:0 "Solidified Conscription"
+ manpower6_tooltip:0 "This focus will stop your weekly manpower but increase your conscription. §RBe warned§!, if you don't complete this before the 150 days of the army draft it will cost stability and war support."
+ 
+ 
+ 
+ 
+ 
+ 
+ AntiTerror:0 "The Duty of a Great Power"
+ 
+ Terror_USA:0 "War Plan; Bald eagle"
+ Terror_SOV:0 "War Plan; Red Dawn"
+ Terror_ENG:0 "War Plan; Tea Time"
+ Terror_GER:0 "War Plan; Shitty Mustache"
+ Terror_JAP:0 "War Plan; Anime"
+ 
+ 
+ 
+ Air1:0 "The Terror Of The Skies"
+ Air2:0 "Light Aircraft 1"
+ Air3:0 "Light Aircraft 2"
+ Air4:0 "Light Aircraft 3"
+ Air5:0 "Medium Aircraft 1"
+ Air6:0 "Medium Aircraft 2" 
+ Air7:0 "Medium Aircraft 3" 
+ Air8:0 "Navl Aircraft 1" 
+ Air9:0 "Navl Aircraft 2" 
+ Air10:0 "Navl Aircraft 3" 
+ Air11:0 "A Greater Air Industry"
+ Air12:0 "Even Greater Air Industry"
+ Air13:0 "The Big Birds"
+ Air14:0 "Nuclear Bomb Capabilities"
+ Air15:0 "Jet Technology"
+ 
+ light_airfocus:0 "First Air Sqadron"
+ light_air_dominance:0 "A Gliding Industry"
+ medium_airfocus:0 "A Grand Airforce"
+ medium_air_dominance:0 "A Flying Industry"
+ naval_airfocus:0 "Seamonsters Of The Sky"
+ naval_air_dominance:0 "A Tornado Like Industry"
+ Heavy_dominence:0"A Bombardouros Industry"
+ expand_airforce:0 "Number One Airforce"
+ 
+ 
+ 
+ Naval_Heavy:0 "Terror Of The Seas" 
+ Naval_Sub:0 "Our Own Wolfpack"
+ Naval_SubTech:0 "Into The Depths"
+ Naval_SubBuff:0 "A Greater Wolfpack" 
+ Naval_Trait:0 "A Glorious Navy" 
+ Naval_Start:0 "The Beggining Of Our Naval Supremacy" 
+ Naval_ClTech:0 "The Escorts Of Our Navy" 
+ Naval_BbTech:0 "Pride Of The Fleet" 
+ Naval_Doctrain:0 "The Great Strategy"
+ Naval_DesTech:0 "Torpedo Boys" 
+ Naval_Start2:0 "A Different Approach" 
+ Naval_BuyFac:0 "A Development Of Our Dockyards" 
+ Naval_BuyCon:0 "Civillian Ships Instead Of Warmachines" 
+ Naval_Landing:0 "Bigger Transports" 
+ Naval_SpecOp:0 "Guardians Of Our Ships" 
+ 
+ 
+ 
+ Tank_Start:0 "Bob Sempel"
+ Tank1:0 "Speedy Bois"
+ Tank4:0 "Fast And Furius"
+ Tank2:0 "The Middle Child"
+ Tank5:0 "Curves Instead Of Thiccness"
+ Tank3:0 "Thicc Bois"
+ Tank6:0 "A Moving Fortress"
+ Tank7:0 "Steel Commanders"
+ Tank_gain_tooltip:0 "Gains a national spirit depending on which path you choose. §YLight Tanks§! gives more speed, §YMedium Tanks§!, are all arround, §YHeavy Tanks§! has more attack and defence"
+ 
+ Light_tank_basic:0 "A Speeding Battalion"
+ Medium_tank_basic:0 "An All-Around Battalion"
+ Heavy_tank_basic:0 "A Thicc Battalion"
+ Light_tank:0 "The Speeding Crew"
+ Medium_tank:0 "The Normies"
+ Heavy_Tank:0 "The Thicc Bois"
+
+ Weapon_Start:0 "Upgraded Sticks"
+ Weapons1:0 "Well Trained Fellas"
+ Weapons2:0 "Mechanized Gang"
+ Weapons3:0 "The Arty Squad" 
+ Weapon3:0 "Bullseye!"
+ Weapon4:0 "Simo Häyhä"
+ Weapons4:0 "KaaBooBooom"
+ Weapons5:0 "A Combined Army"
+ Weapons6:0 "Mass Mobalization"
+ Weapons7:0 "We Shall Combine Our Forces"
+ Weapons8:0 "Work In Progress"
+ Weapons9:0 "A Grand Army"
+ Weapons10:0 "A Mobalized Army"
+ Weapons11:0 "The Largest Army"
+ Weapons12:0 "An Organized Army"
+ Weapons13:0 "Number One Army"
+ 
+ 
+ 
+ Military_Buildup:0 "The Buildup"
+ Military_Buildup1:0 "Well Trained Fellas"
+ Military_Buildup2:0 "Mechanized Gang"
+ Military_Buildup3:0 "The Arty Squad"
+ Military_BuildupB1:0 "An Explosive Bullseye"
+ Military_BuildupB2:0 "A Mechanized Bullseye?"
+ Military_Buildup5B1:0 "An Explosive Combination"
+ Military_Buildup5B2:0 "A Mechanized Combination"
+ Military_Buildup5A:0 "Combination Complete"
+ Military_Buildup4A:0 "The Elite Arty Squad"
+ Military_Buildup4B:0 "The Elite Mechanized gang"
+ Military_Buildup6:0 "Mass Mobalization"
+ Military_Buildup7:0 "Mass Combination"
+ Military_Buildup8:0 "Work In Progress"
+ Military_mob:0 "Our Grand Army"
+ military_mob1:0 "Mobalazation"
+ military_mob2:0 "The Biggest"
+ military_mob3:0 "Organazation"
+ Military_Complete_Mobalisation:0 "Number One Army"
+ 
+ 
+ 
+ 
+ 
+ Civil_mob:0 "Ohh Shieeet"
+ Civil_mob1:0 "Wasn't ready For This"
+ Civil_mob8:0 "Really Wasn't Ready"
+ Civil_mob11:0 "Absolutely Wasn't Ready"
+ Civil_mob9:0 "i'm Sure this Will Help"
+ Civil_mob10:0 "We'll Need This"
+ Civil_mob12:0 "This Could Also Help"
+ Civil_mob3:0 "WE NEED UNITS"
+ Civil_mob4:0 "MORE"
+ Civil_mob5:0 "EVEN MORE"
+ Civil_mob6:0 "MORE"
+ Civil_mob7:0 "GIVE ME MORE"
+ Civil_mob2:0 "GG EZ"
+ 
+ 
+ 
+ Offensive_Spirit:0 "Offense is the Best Defence"
+ Defensive_Spirit:0 "Defence is the Best Offence"
+ DeepDefence:0 "Defence in Depth" 
+ 
+ 
+ 
+ Com_rise:0 "Power To The People"
+ 
+ Com_spirit4:0 "Begin Arming the Defence"
+ Com_spirit5:0 "Continued Arming of the Defence"
+ Com_spirit6:0 "A Defence to be Proud Of"
+ 
+ Com_spirit1:0 "Nationalised Factories"
+ Com_spirit2:0 "Satisfied Workers"
+  
+ Com_spirit7:0 "The Global Revolution"
+ Com_spirit8:0 "Our Global Revolution"
+ Com_spirit9:0 "Crusade against the World"
+ 
+ 
+ 
+ Fas_rise:0 "Power To The Führer"
+ 
+ Fac_spirit4:0 "Security"
+ Fac_spirit5:0 "Security and Safety"
+ 
+ Fac_spirit1:0 "The Flag shall Fly"
+ Fac_spirit2:0 "The Nation's Progress"
+ Fac_spirit3:0 "A Prosperous Military"
+ 
+ Fac_spirit7:0 "History"
+ Fac_spirit8:0 "History and Glory"
+ Fac_spirit9:0 "A Military with A State"
+ 
+ 
+ 
+ Net_rise:0 "The King's Supporters" 
+ 
+ 
+ 
+ Dem_rise:0 "Freedom" 
+ Dem_spirit2:0 "A Secure Nation"
+ Dem_spirit3:0 "University Of The Free""
+ Dem_spirit4:0 "A Stabale Nation"
+ Dem_spirit5:0 "A Safe Nartion"
+ Dem_spirit6:0 "Royal Guard"
+ Dem_spirit7:0 "Technology For The Army"
+ Dem_spirit8:0 "Army Boost"
+ Dem_spirit9:0 "Defenders Of Freedom"  

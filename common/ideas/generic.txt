@@ -1,0 +1,1144 @@
+ideas = {
+
+   country = {
+   
+   Offensive_Spirit = {
+    allowed = {
+	always = yes
+	}
+	removal_cost = -1
+	modifier = {
+	army_attack_factor = 0.1
+	}
+   }
+    Defensive_Spirit = {
+    allowed = {
+	always = yes
+	}
+	removal_cost = -1
+	modifier = {
+	army_core_attack_factor = 0.05
+	army_core_defence_factor = 0.1
+	}
+   }
+   
+   DeepDefence = {
+    allowed = {
+	always = yes
+	}
+	removal_cost = -1
+	modifier = {
+	stability_factor = 0.1
+	consumer_goods_factor = 0.02
+	production_speed_bunker_factor = 0.3
+	production_speed_coastal_bunker_factor = 0.25
+	}
+   }
+   
+   gen_tradition = {
+
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = { 
+    stability_factor = 0.1
+    consumer_goods_factor = -0.05
+    }
+   }
+
+   gen_tradition2 = { 
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = { 
+    stability_factor = 0.2
+    war_support_factor = 0.1
+    consumer_goods_factor = -0.1
+    }
+   }
+   
+   Aggresive_outlook = { 
+   allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = { 
+    stability_factor = -0.15
+    war_support_factor = 0.2
+
+     }
+    }
+
+    Cautious_outlook = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = { 
+    stability_factor = 0.1
+    war_support_factor = -0.15
+    army_org_regain = 0.05
+    army_speed_factor = 0.05
+     }
+    }
+   
+   Com_spirit4 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = -0.15
+    consumer_goods_factor = 0.15
+    
+     }    
+    } 
+    
+    Com_spirit5 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = -0.1
+    army_core_defence_factor = 0.05
+    consumer_goods_factor = 0.1
+    
+     }    
+    }
+    
+    Com_spirit6 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = 0.05
+    army_core_defence_factor = 0.05
+    consumer_goods_factor = -0.05
+    recruitable_population_factor = 0.02
+     }    
+    }
+    
+    Com_spirit1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = 0.05
+    consumer_goods_factor = -0.05
+
+     }
+    }
+    
+    Com_spirit2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    industrial_capacity_factory = 0.05
+     }
+    }
+    
+    Com_spirit3 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1 
+    modifier = {
+    ###add political advisor: 0.1 infrastructure_constuctionspeed, 0.1 civillianfactory_constructionspeed###
+     }
+    }
+    
+    Com_spirit7 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = -0.1
+    war_support_factor = 0.1
+     }
+    }
+    
+    Com_spirit8 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = -0.05
+    war_support_factor = 0.05
+    army_attack_factor = 0.05
+    
+     }
+    }
+    
+    Com-spirit8 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    weekly_manpower = 4000 ###25 weeks###
+
+     }
+    }
+    
+    Com_spirit9 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    army_attack_factor = 0.1
+    army_defence_factor = 0.1
+    
+     }
+    }
+    
+    Fac_spirit4 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = 0.1
+     }
+    }
+    
+    Fac_spirit5 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = 0.15
+     }
+    }
+    
+    Fac_spirit1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    research_speed_factor = 0.05
+    consumer_goods_factor = -0.05
+    
+     }
+    }
+    
+    Fac_spirit2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    nuclear_production_factor = 0.1
+    
+     }
+    }
+    
+    Fac_spirit3 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    conscription = 0.05
+     }
+    }
+    
+    Fac_spirit7 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = 0.05
+    war_support_factor = 0.1
+     }
+    }
+    
+    Fac_spirit8 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    war_support_factor = 0.15
+    army_core_attack_factor = 0.1
+    army_core_defence_factor = 0.1
+     }
+    }
+    
+    Fac_spirit9 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    stability_factor = -0.2
+    training_time_factor = -0.1
+     }
+    }
+	   
+	Dem_spirit4 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	stability_factor = 0.1
+	war_support_factor = -0.1
+	 
+	 }
+    }
+	
+	Dem_spirit5 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	stability_factor = 0.05
+	war_support_factor = -0.05
+	consumer_goods_factor = -0.1
+	 
+	 }
+    }
+	
+	Dem_spirit6 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	local_manpower = 0.3
+	agency_upgrade_time = 0.35
+	 }
+    }
+	
+	Dem_spirit2 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	political_power_factor = 0.25
+	stability_factor = 0.1
+	 }
+    }
+	
+	Dem_spirit3 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	war_support_factor = -0.15
+	 }
+    }
+	
+	Dem_spirit8 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	land_reinforce_rate = 0.05
+	experience_loss_factor = 0.05
+	army_morale = 0.05
+	 }
+    }
+	Dem_spirit9 = {
+	allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	war_support_factor = 0.1
+	army_core_attack_factor = 0.1
+	army_core_defence_factor = 0.1
+	 }
+    }
+	
+	
+	Net_rise = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    neutrality_drift = 0.15
+    neutrality_acceptance = 100
+    }
+   }
+
+    Com_rise = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    communism_drift = 0.15
+    communism_acceptance = 100
+    }
+   }
+
+    Fas_rise = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    fascism_drift = 0.15
+    fascism_acceptance = 100
+    }
+   }
+
+    Dem_rise = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    democratic_drift = 0.15
+    democratic_acceptance = 100
+    }
+   }
+
+
+
+	expand_airforce = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	air_doctrine_cost_factor = -0.1
+	air_ace_generation_chance_factor = 0.25
+	air_fuel_consumption_factor = -0.25
+	air_mission_xp_gain_factor = 1.0
+	air_range_factor = 0.1
+     }
+	}
+	
+	Airfocus = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	air_doctrine_cost_factor = -0.15
+     }
+	}
+	
+	light_airfocus = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	air_superiority_efficiency = 0.15
+	air_cas_efficiency = 0.1
+     }
+	}
+	
+	medium_airfocus = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	air_strategic_bomber_bombing_factor = 0.15
+	air_escort_efficiency = 0.1
+     }
+	}
+	
+	naval_airfocus = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	air_nav_efficiency = 0.2
+	air_escort_efficiency = 0.1
+     }
+	}
+	
+	light_air_dominance = {
+			picture = generic_air_bonus
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			equipment_bonus = {
+				fighter_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+				CAS_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			air_superiority_efficiency = 0.15
+	        air_cas_efficiency = 0.1
+			}
+	}
+	
+	medium_air_dominance = {
+			picture = generic_air_bonus
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			equipment_bonus = {
+				heavy_fighter_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+				tac_bomber_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			air_strategic_bomber_bombing_factor = 0.15
+	        air_escort_efficiency = 0.1	
+			}
+	}
+		
+	naval_air_dominance = {
+			picture = generic_air_bonus
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cv_fighter_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+				cv_nav_bomber_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+				nav_bomber_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			air_nav_efficiency = 0.2
+	        air_escort_efficiency = 0.1	
+			}
+	}
+	
+	heavy_dominance = {
+			picture = generic_air_bonus
+			allowed = {
+				always = yes
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			equipment_bonus = {
+				heavy_fighter_equipment = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+				strat_bomber_equipment = {
+					build_cost_ic = -0.2
+					instant = yes
+				}
+			}
+
+			modifier = {
+			air_strategic_bomber_bombing_factor = 0.15
+	        air_escort_efficiency = 0.15
+			}
+	}
+	
+	Light_tank_basic = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_light_armor  = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_speed_factor = 0.15
+			}
+	}
+	
+	Light_tank = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_light_armor  = {
+					build_cost_ic = -0.15
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_attack_factor = 0.15
+            army_armor_defence_factor = 0.15
+            army_armor_speed_factor = 0.3
+			}
+	}
+	
+	Medium_tank_basic = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_light_armor  = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_attack_factor = 0.05
+            army_armor_defence_factor = 0.05
+            army_armor_speed_factor = 0.05
+			}
+	}
+	
+	Medium_tank = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_medium_armor  = {
+					build_cost_ic = -0.15
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_attack_factor = 0.2
+            army_armor_defence_factor = 0.2
+            army_armor_speed_factor = 0.2
+			}
+	}
+	
+	Heavy_tank_basic = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_heavy_armor  = {
+					build_cost_ic = -0.1
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_attack_factor = 0.05
+            army_armor_defence_factor = 0.1
+			}
+	}
+	
+	Heavy_tank = {
+			picture = generic_tank_bonus
+			allowed = {
+				always = yes
+			}
+			allowed_civil_war = {
+				always = yes
+			}
+			removal_cost = -1
+			
+			equipment_bonus = {
+				cat_medium_armor  = {
+					build_cost_ic = -0.15
+					instant = yes
+				}
+			}
+
+			modifier = {
+			army_armor_attack_factor = 0.2
+            army_armor_defence_factor = 0.2
+            army_armor_speed_factor = 0.2
+			}
+	}
+	
+	Manpower1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    non_core_manpower = 0.3
+    stability_factor = -0.05
+
+     }
+    }
+
+    Manpower2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	non_core_manpower = 0.3
+    local_non_core_manpower = 0.5
+    stability_factor = -0.15
+
+     }
+    }
+
+    Manpower3 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    local_manpower = 0.3
+    war_support_factor = -0.05
+
+     }
+    }
+
+    Manpower4 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    local_manpower = 0.5
+    war_support_factor = -0.1
+
+     }
+    }
+
+    Manpower5 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    weekly_manpower = 2500
+    consumer_goods_factor = 0.05
+
+     }
+    }
+
+    Manpower6 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    recruitable_population = 0.35
+    consumer_goods_factor = 0.1
+
+     }
+    }
+	
+	
+	
+	###PRUE STUPIDITY AND ANNOYANCE IN LIQUID FORM, BE WARNED!###
+	
+	Military_Buildup = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.1
+     }
+    }
+	
+	
+	Military_Buildup1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.075
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.05
+     }
+    }
+	
+	
+	Military_Buildup2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.05
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.05
+	motorized_attack_factor = 0.05
+	mechanized_attack_factor = 0.05
+	motorized_defence_factor = 0.05
+	mechanized_defence_factor = 0.05
+     }
+    }
+	
+	Military_Buildup3 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.05
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.1
+	army_artillery_defence_factor = 0.1
+	army_artillery_attack_factor = 0.1
+     }
+    }
+	
+	
+	Military_BuildupB1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.025
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.15
+	army_defence_factor = 0.15
+	motorized_attack_factor = 0.1
+	mechanized_attack_factor = 0.1
+	motorized_defence_factor = 0.05
+	mechanized_defence_factor = 0.05
+	conscription_factor = -0.33
+     }
+    }
+	
+	Military_BuildupB2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.025
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.2
+	army_defence_factor = 0.15
+	army_artillery_defence_factor = 0.15
+	army_artillery_attack_factor = 0.15
+	conscription_factor = -0.33
+     }
+    }
+	
+	
+	
+	Military_Buildup5B1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.2
+	army_defence_factor = 0.2
+	motorized_attack_factor = 0.1
+	mechanized_attack_factor = 0.1
+	motorized_defence_factor = 0.1
+	mechanized_defence_factor = 0.1
+    army_artillery_defence_factor = 0.05
+	army_artillery_attack_factor = 0.05
+	conscription_factor = -0.25
+	air_superiority_efficiency = 0.1
+	air_cas_efficiency = 0.1
+     }
+    }
+	
+	Military_Buildup5B2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.2
+	army_defence_factor = 0.2
+	army_artillery_defence_factor = 0.1
+	army_artillery_attack_factor = 0.1
+	motorized_attack_factor = 0.05
+	mechanized_attack_factor = 0.05
+	motorized_defence_factor = 0.05
+	mechanized_defence_factor = 0.05
+	conscription_factor = -0.25
+	air_superiority_efficiency = 0.1
+	air_cas_efficiency = 0.1
+     }
+    }
+	
+	
+	
+	Military_Buildup4A = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.025
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.15
+	army_defence_factor = 0.15
+	motorized_attack_factor = 0.15
+	mechanized_attack_factor = 0.15
+	motorized_defence_factor = 0.1
+	mechanized_defence_factor = 0.1
+	army_org_factor = 0.2
+	army_org_regain = 0.2
+	experience_gain_army_factor = 0.2
+	experience_loss_factor = -0.25
+	conscription_factor = -0.5
+     }
+    }
+	
+	Military_Buildup4B = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	acclimatization_cold_climate_gain_factor = 0.5
+	acclimatization_hot_climate_gain_factor = 0.5
+	army_attack_factor = 0.2
+	army_defence_factor = 0.2
+	army_artillery_defence_factor = 0.2
+	army_artillery_attack_factor = 0.2
+	army_org_factor = 0.2
+	army_org_regain = 0.2
+	experience_gain_army_factor = 0.2
+	experience_loss_factor = -0.25
+	conscription_factor = -0.5
+     }
+    }
+	
+	
+	
+	
+	
+	
+	Military_Buildup6 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.075
+	conscription_factor = 0.5
+	experience_gain_army_factor = -0.2
+	air_superiority_bonus_in_combat = -0.1
+     }
+    }
+	
+	Military_Buildup7 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	army_attack_factor = 0.1
+	army_defence_factor = 0.1
+    consumer_goods_factor = 0.05
+	conscription_factor = 0.5
+	experience_gain_army_factor = -0.1
+	air_superiority_bonus_in_combat = -0.1
+     }
+    }
+	
+	Military_Buildup8 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	army_attack_factor = 0.15
+	army_defence_factor = 0.15
+    consumer_goods_factor = 0.025
+	conscription = 0.025
+	experience_gain_army_factor = -0.05
+	air_superiority_bonus_in_combat = -0.05
+     }
+    }
+	Military_Buildup5A = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	army_attack_factor = 0.2
+	army_defence_factor = 0.2
+	conscription = 0.025
+	experience_gain_army_factor = 0.1
+	air_superiority_bonus_in_combat = 0.1
+	air_superiority_efficiency = 0.1
+	air_cas_efficiency = 0.1
+	
+     }
+    }
+	
+	Military_mob = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    consumer_goods_factor = 0.05
+     }
+    }
+	
+	military_mob1 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    mobilization_speed = 0.5
+     }
+    }
+	
+	military_mob2 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    conscription_factor = 0.5
+     }
+    }
+	
+	military_mob3 = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+    army_org_factor = 0.2
+	army_org_regain = 0.2
+     }
+    }
+	
+	Military_Complete_Mobalisation = {
+    allowed = {
+    always = yes
+    }
+    removal_cost = -1
+    modifier = {
+	army_attack_factor = 0.15
+	army_defence_factor = 0.15
+	mobilization_speed = 0.5
+	conscription = 0.1
+	conscription_factor = 1
+    army_org_factor = 0.25
+	army_org_regain = 0.25
+     }
+    }
+	
+}
+
+
+
+political_advisor = {
+
+     Industry_yeas = {
+
+        allowed = { 
+            always = yes
+        }
+
+        traits = { 
+
+		}       
+
+        do_effect = {
+               always = yes            
+        }
+
+        ai_will_do = {
+            factor = 0
+        }
+     }
+   }
+}

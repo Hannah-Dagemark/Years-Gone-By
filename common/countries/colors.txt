@@ -294,3 +294,153 @@ KTN = {
 	color = rgb { 230 21 61 }
 	color_ui = rgb { 230 21 61 }
 }
+
+CLA = {
+	color = rgb { 59 224 164 }
+	color_ui = rgb { 59 224 164 }
+}
+
+ACE = {
+	color = rgb { 32 102 202 }
+	color_ui = rgb { 32 102 202 }
+}
+
+CMA = {
+	color = rgb { 102 51 221 }
+	color_ui = rgb { 102 51 221 }
+}
+
+UKH = {
+	color = rgb { 164 182 195 }
+	color_ui = rgb { 164 182 195 }
+}
+
+TZA = {
+	color = rgb { 32 63 209 }
+	color_ui = rgb { 32 63 209 }
+}
+
+LIU = {
+	color = rgb { 50 154 232 }
+	color_ui = rgb { 50 154 232 }
+}
+
+KGE = {
+	color = rgb { 102 83 216 }
+	color_ui = rgb { 102 83 216 }
+}
+
+KLA = {
+	color = rgb { 57 23 51 }
+	color_ui = rgb { 57 23 51 }
+}
+
+LUA = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+MIN = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+KAA = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+MEN = {
+	color = rgb { 981 }
+	color_ui = rgb { 981 }
+}
+
+VYE = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+NVT = {
+	color = rgb { 1388 }
+	color_ui = rgb { 1388 }
+}
+
+FGC = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+AII = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+VNA = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+CEI = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+GCY = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+MAL = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+ILI = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+KKA = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+CUU = {
+	color = rgb { 161 37 136 }
+	color_ui = rgb { 161 37 136 }
+}
+
+FIN = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+
+RIG = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+CEE = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+ZDS = {
+	color = rgb { 200 200 200 }
+	color_ui = rgb { 200 200 200 }
+}
+
+RDS = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+
+GAL = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+
+ISL = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
