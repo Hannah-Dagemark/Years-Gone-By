@@ -1,0 +1,110 @@
+focus_tree = {
+    id = bsofs_default
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            original_tag = BOR
+        }
+    }
+    focus = {
+        id = bor_asses_internal_structure
+        x = 5
+        cost = 4
+        icon = GFX_focus_generic_concessions
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = 50
+        }
+    }
+    
+    focus = {
+        id = bor_asses_soldiers_commitment
+        x = 10
+        cost = 4
+        icon = GFX_focus_generic_concessions
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = 50
+        }
+    }
+
+    
+    focus = {
+        id = bor_asses_greater_purpose
+        x = 15
+        cost = 4
+        icon = GFX_focus_generic_concessions
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = 50
+        }
+    }
+
+    
+    focus = {
+        id = bor_generals_term_ends
+        x = 0
+        y = 2
+        relative_position_id = bor_asses_soldiers_commitment
+        prerequisite = {focus = bor_asses_internal_structure}
+        prerequisite = {focus = bor_asses_soldiers_commitment}
+        prerequisite = {focus = bor_asses_greater_purpose}
+        cost = 15
+        icon = GFX_focus_generic_concessions
+        completion_reward = {
+            add_stability = 0.05
+            add_political_power = 50
+        }
+    }
+
+    focus = {
+        id = bor_enemies_abroad
+        x = -2
+        y = 1
+        relative_position_id = bor_generals_term_ends
+        prerequisite = {focus = bor_generals_term_ends}
+        mutually_exclusive = {focus = bor_direct_enemies}
+        cost = 1
+        available = {
+            has_country_flag = { flag = elected_gunther }
+        }
+    }
+
+    focus = {
+        id = bor_introduce_jaegerplan
+        x = 0
+        y = 1
+        relative_position_id = bor_enemies_abroad
+        prerequisite = {focus = bor_enemies_abroad}
+        cost = 1
+        available = {
+            has_country_flag = { flag = elected_gunther }
+        }
+    }
+    
+    focus = {
+        id = bor_direct_enemies
+        x = 2
+        y = 1
+        relative_position_id = bor_generals_term_ends
+        prerequisite = {focus = bor_generals_term_ends}
+        mutually_exclusive = {focus = bor_enemies_abroad}
+        cost = 1
+        available = {
+            has_country_flag = { flag = elected_freidrick }
+        }
+    }
+
+    focus = {
+        id = bor_the_army_oppertunity
+        y = 2
+        relative_position_id = bor_generals_term_ends
+        prerequisite = {focus = bor_generals_term_ends}
+        cost = 5
+        available = {
+            has_country_flag = { flag = elected_augustus }
+        }
+    }
+
+}
