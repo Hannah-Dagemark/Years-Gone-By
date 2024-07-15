@@ -1,9 +1,31 @@
 add_namespace = floddstatt
 
 country_event = {
+    id = floddstatt.0
+    title = floddstatt.0.t
+    desc = floddstatt.0.d
+    picture = GFX_report_event_generic_picture
+
+    is_triggered_only = yes
+
+    trigger = {
+        always = no
+    }
+
+    immediate = {
+        # Add any immediate effects here
+    }
+
+    option = {
+        name = floddstatt.0.a
+        add_political_power = 5
+    }
+}
+
+country_event = {
     id = floddstatt.1
     title = floddstatt.1.t
-    desc = floddstatt.1.desc
+    desc = floddstatt.1.d
     picture = GFX_report_event_generic_picture
 
     is_triggered_only = yes
@@ -13,12 +35,29 @@ country_event = {
     }
 
     immediate = {
-        # Add any immediate effects here
+        clr_global_flag = flod_elections_in_motion_flag
+        every_country = {
+            limit = {
+                OR = {
+                    has_idea = floddstatt_member
+                    has_idea = floddstatt_border
+                }
+                NOT = {
+                    has_idea = floddstatt_leader
+                }
+            }
+            overlord = {
+                add_political_power = 300
+                set_autonomy = {
+                    target = PREV
+                    autonomous_state = autonomy_free
+                }
+            }
+        }
     }
 
     option = {
         name = floddstatt.1.a
-        flod_set_election_standard = yes
-        activate_mission = fg_election
+        flod_election_result = yes
     }
 }

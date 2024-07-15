@@ -3,11 +3,16 @@ on_actions = {
         effect = {
             every_country = {
                 limit = {
-                    has_idea = floddstatt_member
+                    has_idea = floddstatt_leader
                 }
                 flod_set_election_standard = yes
-                country_event = { id = floddstatt.1 }
+            }
+            every_country = {
+                limit = {
+                    has_idea = floddstatt_member
+                }
                 activate_mission = fg_election
+                country_event = { id = floddstatt.0 }
             }
         }
     }

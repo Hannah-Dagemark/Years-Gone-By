@@ -141,5 +141,5 @@
 
  ### Floddstatt:
 
- fg_election_desc:0 "The Floddstatt has long been known for it's decentralized and elective ruling system, whereby the many states are elected and take turns governing the foreign policy and the policies of the union's capital. The elections are held twice a year, and it's up to the individual nations to rally support behind their cause and win the votes of the people! Current support is:\n [GRT.GetName] ([?GRT_ele_support])\n [BRK.GetName] ([?BRK_ele_support])\n [CUM.GetName] ([?CUM_ele_support])\n [LAN.GetName] ([?LAN_ele_support])\n [AVI.GetName] ([?AVI_ele_support])\n"
+ fg_election_desc:0 "The Floddstatt has long been known for it's decentralized and elective ruling system, whereby the many states are elected and take turns governing the foreign policy and the policies of the union's capital. The elections are held twice a year, and it's up to the individual nations to rally support behind their cause and win the votes of the people! Current support is:\n [GRT.GetName] ([?global.GRT_ele_support])\n [BRK.GetName] ([?global.BRK_ele_support])\n [CUM.GetName] ([?global.CUM_ele_support])\n [LAN.GetName] ([?global.LAN_ele_support])\n [AVI.GetName] ([?global.AVI_ele_support])\n"
  flod_add_support_s:0 "Add §G1§! support for [ROOT.GetName]"

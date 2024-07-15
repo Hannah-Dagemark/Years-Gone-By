@@ -1,10 +1,128 @@
 flod_set_election_standard = {
-    set_country_flag = flod_elections_in_motion_flag
-    set_variable = { GRT_ele_support = 1 }
-    set_variable = { BRK_ele_support = 1 }
-    set_variable = { CUM_ele_support = 1 }
-    set_variable = { LAN_ele_support = 1 }
-    set_variable = { AVI_ele_support = 1 }
+    set_global_flag = flod_elections_in_motion_flag
+    set_variable = { global.GRT_ele_support = 1 }
+    set_variable = { global.BRK_ele_support = 1 }
+    set_variable = { global.CUM_ele_support = 1 }
+    set_variable = { global.LAN_ele_support = 1 }
+    set_variable = { global.AVI_ele_support = 1 }
+}
+
+flod_election_result = {
+    if = {
+        limit = {
+            check_variable = { var = global.GRT_ele_support value = global.BRK_ele_support compare = greater_than }
+            check_variable = { var = global.GRT_ele_support value = global.CUM_ele_support compare = greater_than }
+            check_variable = { var = global.GRT_ele_support value = global.LAN_ele_support compare = greater_than }
+            check_variable = { var = global.GRT_ele_support value = global.AVI_ele_support compare = greater_than }
+        }
+        GRT = {
+            add_ideas = floddstatt_leader
+            puppet = BRK
+            puppet = CUM
+            puppet = LAN
+            puppet = AVI
+            puppet = BOR
+
+            set_autonomy = { target = BRK autonomy_state = fs_core_member }
+            set_autonomy = { target = CUM autonomy_state = fs_core_member }
+            set_autonomy = { target = LAN autonomy_state = fs_core_member }
+            set_autonomy = { target = AVI autonomy_state = fs_core_member }
+            set_autonomy = { target = BOR autonomy_state = fs_border_state }
+        }
+    }
+
+    if = {
+        limit = {
+            check_variable = { var = global.BRK_ele_support value = global.GRT_ele_support compare = greater_than }
+            check_variable = { var = global.BRK_ele_support value = global.CUM_ele_support compare = greater_than }
+            check_variable = { var = global.BRK_ele_support value = global.LAN_ele_support compare = greater_than }
+            check_variable = { var = global.BRK_ele_support value = global.AVI_ele_support compare = greater_than }
+        }
+        BRK = {
+            add_ideas = floddstatt_leader
+            puppet = GRT
+            puppet = CUM
+            puppet = LAN
+            puppet = AVI
+            puppet = BOR
+
+            set_autonomy = { target = GRT autonomy_state = fs_core_member }
+            set_autonomy = { target = CUM autonomy_state = fs_core_member }
+            set_autonomy = { target = LAN autonomy_state = fs_core_member }
+            set_autonomy = { target = AVI autonomy_state = fs_core_member }
+            set_autonomy = { target = BOR autonomy_state = fs_border_state }
+        }
+    }
+
+    if = {
+        limit = {
+            check_variable = { var = global.CUM_ele_support value = global.GRT_ele_support compare = greater_than }
+            check_variable = { var = global.CUM_ele_support value = global.BRK_ele_support compare = greater_than }
+            check_variable = { var = global.CUM_ele_support value = global.LAN_ele_support compare = greater_than }
+            check_variable = { var = global.CUM_ele_support value = global.AVI_ele_support compare = greater_than }
+        }
+        CUM = {
+            add_ideas = floddstatt_leader
+            puppet = BRK
+            puppet = GRT
+            puppet = LAN
+            puppet = AVI
+            puppet = BOR
+
+            set_autonomy = { target = BRK autonomy_state = fs_core_member }
+            set_autonomy = { target = GRT autonomy_state = fs_core_member }
+            set_autonomy = { target = LAN autonomy_state = fs_core_member }
+            set_autonomy = { target = AVI autonomy_state = fs_core_member }
+            set_autonomy = { target = BOR autonomy_state = fs_border_state }
+        }
+    }
+
+    if = {
+        limit = {
+            check_variable = { var = global.LAN_ele_support value = global.GRT_ele_support compare = greater_than }
+            check_variable = { var = global.LAN_ele_support value = global.BRK_ele_support compare = greater_than }
+            check_variable = { var = global.LAN_ele_support value = global.CUM_ele_support compare = greater_than }
+            check_variable = { var = global.LAN_ele_support value = global.AVI_ele_support compare = greater_than }
+        }
+        LAN = {
+            add_ideas = floddstatt_leader
+            puppet = BRK
+            puppet = CUM
+            puppet = GRT
+            puppet = AVI
+            puppet = BOR
+
+            set_autonomy = { target = BRK autonomy_state = fs_core_member }
+            set_autonomy = { target = CUM autonomy_state = fs_core_member }
+            set_autonomy = { target = GRT autonomy_state = fs_core_member }
+            set_autonomy = { target = AVI autonomy_state = fs_core_member }
+            set_autonomy = { target = BOR autonomy_state = fs_border_state }
+        }
+    }
+
+    if = {
+        limit = {
+            check_variable = { var = global.AVI_ele_support value = global.GRT_ele_support compare = greater_than }
+            check_variable = { var = global.AVI_ele_support value = global.BRK_ele_support compare = greater_than }
+            check_variable = { var = global.AVI_ele_support value = global.CUM_ele_support compare = greater_than }
+            check_variable = { var = global.AVI_ele_support value = global.LAN_ele_support compare = greater_than }
+        }
+        AVI = {
+            add_ideas = floddstatt_leader
+            puppet = GRT
+            puppet = BRK
+            puppet = CUM
+            puppet = LAN
+            puppet = BOR
+
+            set_autonomy = { target = GRT autonomy_state = fs_core_member }
+            set_autonomy = { target = BRK autonomy_state = fs_core_member }
+            set_autonomy = { target = CUM autonomy_state = fs_core_member }
+            set_autonomy = { target = LAN autonomy_state = fs_core_member }
+            set_autonomy = { target = BOR autonomy_state = fs_border_state }
+        }
+    }
+    flod_set_election_standard = yes
 }
 
 ### Add Support For Nation In Floddstatt
@@ -12,69 +130,69 @@ flod_set_election_standard = {
 # GRT 
 
 flod_grt_support_grow_s = {
-    add_to_variable = { GRT_ele_support = 1}
+    add_to_variable = { global.GRT_ele_support = 1}
 }
 
 flod_grt_support_grow_m = {
-    add_to_variable = { GRT_ele_support = 3}
+    add_to_variable = { global.GRT_ele_support = 3}
 }
 
 flod_grt_support_grow_l = {
-    add_to_variable = { GRT_ele_support = 5}
+    add_to_variable = { global.GRT_ele_support = 5}
 }
 
 # BRK
 
 flod_brk_support_grow_s = {
-    add_to_variable = { BRK_ele_support = 1}
+    add_to_variable = { global.BRK_ele_support = 1}
 }
 
 flod_brk_support_grow_m = {
-    add_to_variable = { BRK_ele_support = 3}
+    add_to_variable = { global.BRK_ele_support = 3}
 }
 
 flod_brk_support_grow_l = {
-    add_to_variable = { BRK_ele_support = 5}
+    add_to_variable = { global.BRK_ele_support = 5}
 }
 
 # CUM ;3
 
 flod_cum_support_grow_s = {
-    add_to_variable = { CUM_ele_support = 1}
+    add_to_variable = { global.CUM_ele_support = 1}
 }
 
 flod_cum_support_grow_m = {
-    add_to_variable = { CUM_ele_support = 3}
+    add_to_variable = { global.CUM_ele_support = 3}
 }
 
 flod_cum_support_grow_l = {
-    add_to_variable = { CUM_ele_support = 5}
+    add_to_variable = { global.CUM_ele_support = 5}
 }
 
 # LAN
 
 flod_lan_support_grow_s = {
-    add_to_variable = { LAN_ele_support = 1}
+    add_to_variable = { global.LAN_ele_support = 1}
 }
 
 flod_lan_support_grow_m = {
-    add_to_variable = { LAN_ele_support = 3}
+    add_to_variable = { global.LAN_ele_support = 3}
 }
 
 flod_lan_support_grow_l = {
-    add_to_variable = { LAN_ele_support = 5}
+    add_to_variable = { global.LAN_ele_support = 5}
 }
 
 # AVI
 
 flod_avi_support_grow_s = {
-    add_to_variable = { AVI_ele_support = 1}
+    add_to_variable = { global.AVI_ele_support = 1}
 }
 
 flod_avi_support_grow_m = {
-    add_to_variable = { AVI_ele_support = 3}
+    add_to_variable = { global.AVI_ele_support = 3}
 }
 
 flod_avi_support_grow_l = {
-    add_to_variable = { AVI_ele_support = 5}
+    add_to_variable = { global.AVI_ele_support = 5}
 }

@@ -42,3 +42,28 @@ puppet = CUM
 puppet = LAN
 puppet = AVI
 puppet = BOR
+
+set_autonomy = {
+	target = BRK
+	autonomy_state = fs_core_member
+}
+
+set_autonomy = {
+	target = CUM
+	autonomy_state = fs_core_member
+}
+
+set_autonomy = {
+	target = LAN
+	autonomy_state = fs_core_member
+}
+
+set_autonomy = {
+	target = AVI
+	autonomy_state = fs_core_member
+}
+
+set_autonomy = {
+	target = BOR
+	autonomy_state = fs_core_member
+}

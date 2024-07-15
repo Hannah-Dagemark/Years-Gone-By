@@ -1,4 +1,14 @@
 floddstatt_general = {
+
+  fg_debug_checkelectiontimeout = {
+	available = {
+		has_idea = floddstatt_member
+		is_debug = yes
+	}
+	complete_effect = {
+        country_event = { id = floddstatt.1 }
+	}
+  }
   fg_capital_encouragement = {
         available = {
             has_idea = floddstatt_leader
@@ -21,7 +31,7 @@ floddstatt_general = {
         icon = mission_icon
         is_good = yes
         days_mission_timeout = 180
-        complete_effect = {
+        timeout_effect = {
             add_political_power = 100
             country_event = { id = floddstatt.1 }
         }
