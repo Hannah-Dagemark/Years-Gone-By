@@ -4,6 +4,8 @@ print("tag:")
 c_tag = input()
 print("def:")
 c_def = input()
+print("adj:")
+c_adj = input()
 print("colour: (r g b)")
 c_colour = input()
 x = 0
@@ -52,6 +54,10 @@ def states():
 def localisation():
     file = open("./localisation/english/countries_l_english.yml", "a")
     file.write(f"\n\n {c_tag}_neutrality:0 \"{c_name}\"\n {c_tag}_neutrality_DEF:0 \"{c_def}\"")
+    file.write(f"\n {c_tag}_democratic:0 \"{c_name}\"\n {c_tag}_democratic_DEF:0 \"{c_def}\"")
+    file.write(f"\n {c_tag}_communism:0 \"{c_name}\"\n {c_tag}_communism_DEF:0 \"{c_def}\"")
+    file.write(f"\n {c_tag}_fascism:0 \"{c_name}\"\n {c_tag}_fascism_DEF:0 \"{c_def}\"")
+    file.write(f"\n {c_tag}_fascism_ADJ:0 \"{c_adj}\"\n {c_tag}_democratic_ADJ:0 \"{c_adj}\"\n {c_tag}_neutrality_ADJ:0 \"{c_adj}\"\n {c_tag}_communism_ADJ:0 \"{c_adj}\"")
     file.close
         
 common()

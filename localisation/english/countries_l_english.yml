@@ -1,350 +1,1141 @@
 ﻿l_english:
- ABC_neutrality:0 "Nomadic Lands"
- ABC_neutrality_DEF:0 "The Nomadic Tribelands"
-
- AVI_neutrality:0 "Avvnie"
- AVI_neutrality_DEF:0 "The River Chiefdom of Avvine"
-
- GRT_neutrality:0 "Gartiva"
- GRT_neutrality_DEF:0 "The River Chiefdom of Gartiva"
-
- BRK_neutrality:0 "Barkenia"
- BRK_neutrality_DEF:0 "The River Chiefdom of Barkenia"
-
- CUM_neutrality:0 "Cussemini"
- CUM_neutrality_DEF:0 "The River Chiefdom of Cussemini"
-
- LAN_neutrality:0 "Lantrio"
- LAN_neutrality_DEF:0 "The River Chiefdom of Lantrio"
-
- BOR_neutrality:0 "BSOFS"
- BOR_neutrality_DEF:0 "The Border State of FlodStatt"
- 
- YXN_neutrality:0 "Yxginn"
- YXN_neutrality_DEF:0 "The Terratories of the Yxginn"
- 
- CAT_neutrality:0 "Castaria"
- CAT_neutrality_DEF:0 "The new duchy of Castaria"
- 
- ESK_neutrality:0 "Estalakerden"
- ESK_neutrality_DEF:0 "The eternal Estalakerden watertribe"
- 
- SDV_neutrality:0 "Südvinnen"
- SDV_neutrality_DEF:0 "The Südvinnen principality"
-
- NDL:0 "Nederland"
- NDL_DEF:0 "The Reformed Kingdom of Nederland"
-
-
- ##UNCLAIMED / MAPFILLER:
-
-
- BTN_neutrality:0 "Bretagne"
- BTN_neutrality_DEF:0 "Bretagne"
-
- AQT_neutrality:0 "Aquatuanie"
- AQT_neutrality_DEF:0 "Aquatuanie"
-
- OCT_neutrality:0 "Occatanje"
- OCT_neutrality_DEF:0 "Occatanje"
-
- ANL_neutrality:0 "Arañellos"
- ANL_neutrality_DEF:0 "Arañellos"
-
- RUM_neutrality:0 "Union de las Republicas Montañas"
- RUM_neutrality_DEF:0 "Union de las Republicas Montañas"
-
- GAJ_neutrality:0 "Gajaritas"
- GAJ_neutrality_DEF:0 "Gajaritas"
- 
- PAR_neutrality:0 "Parlouwello"
- PAR_neutrality_DEF:0 "Parlouwello"
- 
- WGT_neutrality:0 "World Governing Totalitarians"
- WGT_neutrality_DEF:0 "World Governing Totalitarians"
- 
- USF_neutrality:0 "Union of Surviving Farmlands"
- USF_neutrality_DEF:0 "Union of Surviving Farmlands"
- 
- GAR_neutrality:0 "Garanatai"
- GAR_neutrality_DEF:0 "Garanatai"
-
-
-  
- WAL_neutrality:0 "Waelia"
- WAL_neutrality_DEF:0 "Waelia"
-  
- COR_neutrality:0 "Corrivié"
- COR_neutrality_DEF:0 "Corrivié"
-  
- FRA_neutrality:0 "Farracasicia"
- FRA_neutrality_DEF:0 "Farracasicia"
-  
- NER_neutrality:0 "Neriffiticia"
- NER_neutrality_DEF:0 "Neriffiticia"
-  
- SOC_neutrality:0 "Soccotorro"
- SOC_neutrality_DEF:0 "Soccotorro"
-  
- NAR_neutrality:0 "Narrvii"
- NAR_neutrality_DEF:0 "Narrvii"
-  
- DUB_neutrality:0 "Dubliniv"
- DUB_neutrality_DEF:0 "Dubliniv"
-  
- CER_neutrality:0 "Cerck"
- CER_neutrality_DEF:0 "Cerck"
-  
- NMD_neutrality:0 "Normandié"
- NMD_neutrality_DEF:0 "Normandié"
-  
- LIC_neutrality:0 "The Lesser Confederation of Island Principalities"
- LIC_neutrality_DEF:0 "The Lesser Confederation of Island Principalities"
-
- ### Generated
-
- LMB_neutrality:0 "Lammbouir"
- LMB_neutrality_DEF:0 "Lammbouir"
- 
- RUI_neutrality:0 "Ruinaires"
- RUI_neutrality_DEF:0 "Ruinaires"
- 
- CTL_neutrality:0 "Costilliere"
- CTL_neutrality_DEF:0 "Costilliere"
- 
- PIR_neutrality:0 "Pirate Cove"
- PIR_neutrality_DEF:0 "The Merchant cove of Pirates"
- 
- UMB_neutrality:0 "United Mercenary Bands"
- UMB_neutrality_DEF:0 "The Union of Mercenary Bands"
- 
- SGM_neutrality:0 "Ösigvmutan"
- SGM_neutrality_DEF:0 "Dae Ösigvmutan Kvutiz"
- 
- NLQ_neutrality:0 "Norlorqs"
- NLQ_neutrality_DEF:0 "Norlorqs"
- 
- UDL_neutrality:0 "Uldrikland"
- UDL_neutrality_DEF:0 "Landen af Uldrik denne Store"
- 
- SUI_neutrality:0 "Sarroui"
- SUI_neutrality_DEF:0 "Sarroui"
- 
- ITZ_neutrality:0 "Itzerla"
- ITZ_neutrality_DEF:0 "Aev't Itzerli Kivmacosta"
- 
- IQI_neutrality:0 "Isletueteriqui"
- IQI_neutrality_DEF:0 "Islatae Isletueteriqui Quimon Qui"
- 
- NQV_neutrality:0 "Norriquiva Militaritzia General"
- NQV_neutrality_DEF:0 "Generalitz Militaritzia d' Norriquiva"
- 
- SQV_neutrality:0 "Surriquiva acombatro a folgas"
- SQV_neutrality_DEF:0 "Al acombatro a de folgas Surriquiva"
- 
- UTV_neutrality:0 "Unitrevita"
- UTV_neutrality:0 "Unitrevita"
-
- FSH_neutrality:0 "F'ish"
- FSH_neutrality_DEF:0 "Union of F'ish people"
- 
- FAL_neutrality:0 "Falandia"
- FAL_neutrality_DEF:0 "The Grand Duchy of Falandia"
-
- SVL_neutrality:0 "Sarvundland"
- SVL_neutrality_DEF:0 "Der treue land af Sarvund"
-
- TTR_neutrality:0 "The Tall Republic"
- TTR_neutrality_DEF:0 "The Democratic Union of The Mountains"
-
- GTL_neutrality:0 "Gaestertland"
- GTL_neutrality_DEF:0 "Landet av die stoere Gaestert"
 
- GCT_neutrality:0 "Günther Cult"
- GCT_neutrality_DEF:0 "The cult of Günther"
+ABC_neutrality:0 "Nomadic Lands"
+ABC_neutrality_DEF:0 "The Nomadic Tribelands"
+ABC_democratic:0 "Nomadic Lands"
+ABC_democratic_DEF:0 "The Nomadic Tribelands"
+ABC_communism:0 "Nomadic Lands"
+ABC_communism_DEF:0 "The Nomadic Tribelands"
+ABC_fascism:0 "Nomadic Lands"
+ABC_fascism_DEF:0 "The Nomadic Tribelands"
+
+
+AVI_neutrality:0 "Avvnie"
+AVI_neutrality_DEF:0 "The River Chiefdom of Avvine"
+AVI_democratic:0 "Avvnie"
+AVI_democratic_DEF:0 "The River Chiefdom of Avvine"
+AVI_communism:0 "Avvnie"
+AVI_communism_DEF:0 "The River Chiefdom of Avvine"
+AVI_fascism:0 "Avvnie"
+AVI_fascism_DEF:0 "The River Chiefdom of Avvine"
+
+
+GRT_neutrality:0 "Gartiva"
+GRT_neutrality_DEF:0 "The River Chiefdom of Gartiva"
+GRT_democratic:0 "Gartiva"
+GRT_democratic_DEF:0 "The River Chiefdom of Gartiva"
+GRT_communism:0 "Gartiva"
+GRT_communism_DEF:0 "The River Chiefdom of Gartiva"
+GRT_fascism:0 "Gartiva"
+GRT_fascism_DEF:0 "The River Chiefdom of Gartiva"
+
+
+BRK_neutrality:0 "Barkenia"
+BRK_neutrality_DEF:0 "The River Chiefdom of Barkenia"
+BRK_democratic:0 "Barkenia"
+BRK_democratic_DEF:0 "The River Chiefdom of Barkenia"
+BRK_communism:0 "Barkenia"
+BRK_communism_DEF:0 "The River Chiefdom of Barkenia"
+BRK_fascism:0 "Barkenia"
+BRK_fascism_DEF:0 "The River Chiefdom of Barkenia"
+
+
+CUM_neutrality:0 "Cussemini"
+CUM_neutrality_DEF:0 "The River Chiefdom of Cussemini"
+CUM_democratic:0 "Cussemini"
+CUM_democratic_DEF:0 "The River Chiefdom of Cussemini"
+CUM_communism:0 "Cussemini"
+CUM_communism_DEF:0 "The River Chiefdom of Cussemini"
+CUM_fascism:0 "Cussemini"
+CUM_fascism_DEF:0 "The River Chiefdom of Cussemini"
+
+
+LAN_neutrality:0 "Lantrio"
+LAN_neutrality_DEF:0 "The River Chiefdom of Lantrio"
+LAN_democratic:0 "Lantrio"
+LAN_democratic_DEF:0 "The River Chiefdom of Lantrio"
+LAN_communism:0 "Lantrio"
+LAN_communism_DEF:0 "The River Chiefdom of Lantrio"
+LAN_fascism:0 "Lantrio"
+LAN_fascism_DEF:0 "The River Chiefdom of Lantrio"
+
+
+BOR_neutrality:0 "BSOFS"
+BOR_neutrality_DEF:0 "The Border State of FlodStatt"
+BOR_democratic:0 "BSOFS"
+BOR_democratic_DEF:0 "The Border State of FlodStatt"
+BOR_communism:0 "BSOFS"
+BOR_communism_DEF:0 "The Border State of FlodStatt"
+BOR_fascism:0 "BSOFS"
+BOR_fascism_DEF:0 "The Border State of FlodStatt"
+
+
+YXN_neutrality:0 "Yxginn"
+YXN_neutrality_DEF:0 "The Terratories of the Yxginn"
+YXN_democratic:0 "Yxginn"
+YXN_democratic_DEF:0 "The Terratories of the Yxginn"
+YXN_communism:0 "Yxginn"
+YXN_communism_DEF:0 "The Terratories of the Yxginn"
+YXN_fascism:0 "Yxginn"
+YXN_fascism_DEF:0 "The Terratories of the Yxginn"
+
+
+CAT_neutrality:0 "Castaria"
+CAT_neutrality_DEF:0 "The new duchy of Castaria"
+CAT_democratic:0 "Castaria"
+CAT_democratic_DEF:0 "The new duchy of Castaria"
+CAT_communism:0 "Castaria"
+CAT_communism_DEF:0 "The new duchy of Castaria"
+CAT_fascism:0 "Castaria"
+CAT_fascism_DEF:0 "The new duchy of Castaria"
+
+
+ESK_neutrality:0 "Estalakerden"
+ESK_neutrality_DEF:0 "The eternal Estalakerden watertribe"
+ESK_democratic:0 "Estalakerden"
+ESK_democratic_DEF:0 "The eternal Estalakerden watertribe"
+ESK_communism:0 "Estalakerden"
+ESK_communism_DEF:0 "The eternal Estalakerden watertribe"
+ESK_fascism:0 "Estalakerden"
+ESK_fascism_DEF:0 "The eternal Estalakerden watertribe"
+
+
+SDV_neutrality:0 "Südvinnen"
+SDV_neutrality_DEF:0 "The Südvinnen principality"
+SDV_democratic:0 "Südvinnen"
+SDV_democratic_DEF:0 "The Südvinnen principality"
+SDV_communism:0 "Südvinnen"
+SDV_communism_DEF:0 "The Südvinnen principality"
+SDV_fascism:0 "Südvinnen"
+SDV_fascism_DEF:0 "The Südvinnen principality"
+
+
+BTN_neutrality:0 "Bretagne"
+BTN_neutrality_DEF:0 "Bretagne"
+BTN_democratic:0 "Bretagne"
+BTN_democratic_DEF:0 "Bretagne"
+BTN_communism:0 "Bretagne"
+BTN_communism_DEF:0 "Bretagne"
+BTN_fascism:0 "Bretagne"
+BTN_fascism_DEF:0 "Bretagne"
+
+
+AQT_neutrality:0 "Aquatuanie"
+AQT_neutrality_DEF:0 "Aquatuanie"
+AQT_democratic:0 "Aquatuanie"
+AQT_democratic_DEF:0 "Aquatuanie"
+AQT_communism:0 "Aquatuanie"
+AQT_communism_DEF:0 "Aquatuanie"
+AQT_fascism:0 "Aquatuanie"
+AQT_fascism_DEF:0 "Aquatuanie"
+
+
+OCT_neutrality:0 "Occatanje"
+OCT_neutrality_DEF:0 "Occatanje"
+OCT_democratic:0 "Occatanje"
+OCT_democratic_DEF:0 "Occatanje"
+OCT_communism:0 "Occatanje"
+OCT_communism_DEF:0 "Occatanje"
+OCT_fascism:0 "Occatanje"
+OCT_fascism_DEF:0 "Occatanje"
+
+
+ANL_neutrality:0 "Arañellos"
+ANL_neutrality_DEF:0 "Arañellos"
+ANL_democratic:0 "Arañellos"
+ANL_democratic_DEF:0 "Arañellos"
+ANL_communism:0 "Arañellos"
+ANL_communism_DEF:0 "Arañellos"
+ANL_fascism:0 "Arañellos"
+ANL_fascism_DEF:0 "Arañellos"
+
+
+RUM_neutrality:0 "Union de las Republicas Montañas"
+RUM_neutrality_DEF:0 "Union de las Republicas Montañas"
+RUM_democratic:0 "Union de las Republicas Montañas"
+RUM_democratic_DEF:0 "Union de las Republicas Montañas"
+RUM_communism:0 "Union de las Republicas Montañas"
+RUM_communism_DEF:0 "Union de las Republicas Montañas"
+RUM_fascism:0 "Union de las Republicas Montañas"
+RUM_fascism_DEF:0 "Union de las Republicas Montañas"
+
+
+GAJ_neutrality:0 "Gajaritas"
+GAJ_neutrality_DEF:0 "Gajaritas"
+GAJ_democratic:0 "Gajaritas"
+GAJ_democratic_DEF:0 "Gajaritas"
+GAJ_communism:0 "Gajaritas"
+GAJ_communism_DEF:0 "Gajaritas"
+GAJ_fascism:0 "Gajaritas"
+GAJ_fascism_DEF:0 "Gajaritas"
+
+
+PAR_neutrality:0 "Parlouwello"
+PAR_neutrality_DEF:0 "Parlouwello"
+PAR_democratic:0 "Parlouwello"
+PAR_democratic_DEF:0 "Parlouwello"
+PAR_communism:0 "Parlouwello"
+PAR_communism_DEF:0 "Parlouwello"
+PAR_fascism:0 "Parlouwello"
+PAR_fascism_DEF:0 "Parlouwello"
+
+
+WGT_neutrality:0 "World Governing Totalitarians"
+WGT_neutrality_DEF:0 "World Governing Totalitarians"
+WGT_democratic:0 "World Governing Totalitarians"
+WGT_democratic_DEF:0 "World Governing Totalitarians"
+WGT_communism:0 "World Governing Totalitarians"
+WGT_communism_DEF:0 "World Governing Totalitarians"
+WGT_fascism:0 "World Governing Totalitarians"
+WGT_fascism_DEF:0 "World Governing Totalitarians"
+
+
+USF_neutrality:0 "Union of Surviving Farmlands"
+USF_neutrality_DEF:0 "Union of Surviving Farmlands"
+USF_democratic:0 "Union of Surviving Farmlands"
+USF_democratic_DEF:0 "Union of Surviving Farmlands"
+USF_communism:0 "Union of Surviving Farmlands"
+USF_communism_DEF:0 "Union of Surviving Farmlands"
+USF_fascism:0 "Union of Surviving Farmlands"
+USF_fascism_DEF:0 "Union of Surviving Farmlands"
+
+
+GAR_neutrality:0 "Garanatai"
+GAR_neutrality_DEF:0 "Garanatai"
+GAR_democratic:0 "Garanatai"
+GAR_democratic_DEF:0 "Garanatai"
+GAR_communism:0 "Garanatai"
+GAR_communism_DEF:0 "Garanatai"
+GAR_fascism:0 "Garanatai"
+GAR_fascism_DEF:0 "Garanatai"
+
+
+WAL_neutrality:0 "Waelia"
+WAL_neutrality_DEF:0 "Waelia"
+WAL_democratic:0 "Waelia"
+WAL_democratic_DEF:0 "Waelia"
+WAL_communism:0 "Waelia"
+WAL_communism_DEF:0 "Waelia"
+WAL_fascism:0 "Waelia"
+WAL_fascism_DEF:0 "Waelia"
+
+
+COR_neutrality:0 "Corrivié"
+COR_neutrality_DEF:0 "Corrivié"
+COR_democratic:0 "Corrivié"
+COR_democratic_DEF:0 "Corrivié"
+COR_communism:0 "Corrivié"
+COR_communism_DEF:0 "Corrivié"
+COR_fascism:0 "Corrivié"
+COR_fascism_DEF:0 "Corrivié"
+
+
+FRA_neutrality:0 "Farracasicia"
+FRA_neutrality_DEF:0 "Farracasicia"
+FRA_democratic:0 "Farracasicia"
+FRA_democratic_DEF:0 "Farracasicia"
+FRA_communism:0 "Farracasicia"
+FRA_communism_DEF:0 "Farracasicia"
+FRA_fascism:0 "Farracasicia"
+FRA_fascism_DEF:0 "Farracasicia"
+
+
+NER_neutrality:0 "Neriffiticia"
+NER_neutrality_DEF:0 "Neriffiticia"
+NER_democratic:0 "Neriffiticia"
+NER_democratic_DEF:0 "Neriffiticia"
+NER_communism:0 "Neriffiticia"
+NER_communism_DEF:0 "Neriffiticia"
+NER_fascism:0 "Neriffiticia"
+NER_fascism_DEF:0 "Neriffiticia"
+
+
+SOC_neutrality:0 "Soccotorro"
+SOC_neutrality_DEF:0 "Soccotorro"
+SOC_democratic:0 "Soccotorro"
+SOC_democratic_DEF:0 "Soccotorro"
+SOC_communism:0 "Soccotorro"
+SOC_communism_DEF:0 "Soccotorro"
+SOC_fascism:0 "Soccotorro"
+SOC_fascism_DEF:0 "Soccotorro"
+
+
+NAR_neutrality:0 "Narrvii"
+NAR_neutrality_DEF:0 "Narrvii"
+NAR_democratic:0 "Narrvii"
+NAR_democratic_DEF:0 "Narrvii"
+NAR_communism:0 "Narrvii"
+NAR_communism_DEF:0 "Narrvii"
+NAR_fascism:0 "Narrvii"
+NAR_fascism_DEF:0 "Narrvii"
+
+
+DUB_neutrality:0 "Dubliniv"
+DUB_neutrality_DEF:0 "Dubliniv"
+DUB_democratic:0 "Dubliniv"
+DUB_democratic_DEF:0 "Dubliniv"
+DUB_communism:0 "Dubliniv"
+DUB_communism_DEF:0 "Dubliniv"
+DUB_fascism:0 "Dubliniv"
+DUB_fascism_DEF:0 "Dubliniv"
+
+
+CER_neutrality:0 "Cerck"
+CER_neutrality_DEF:0 "Cerck"
+CER_democratic:0 "Cerck"
+CER_democratic_DEF:0 "Cerck"
+CER_communism:0 "Cerck"
+CER_communism_DEF:0 "Cerck"
+CER_fascism:0 "Cerck"
+CER_fascism_DEF:0 "Cerck"
+
+
+NMD_neutrality:0 "Normandié"
+NMD_neutrality_DEF:0 "Normandié"
+NMD_democratic:0 "Normandié"
+NMD_democratic_DEF:0 "Normandié"
+NMD_communism:0 "Normandié"
+NMD_communism_DEF:0 "Normandié"
+NMD_fascism:0 "Normandié"
+NMD_fascism_DEF:0 "Normandié"
+
+
+LIC_neutrality:0 "The Lesser Confederation of Island Principalities"
+LIC_neutrality_DEF:0 "The Lesser Confederation of Island Principalities"
+LIC_democratic:0 "The Lesser Confederation of Island Principalities"
+LIC_democratic_DEF:0 "The Lesser Confederation of Island Principalities"
+LIC_communism:0 "The Lesser Confederation of Island Principalities"
+LIC_communism_DEF:0 "The Lesser Confederation of Island Principalities"
+LIC_fascism:0 "The Lesser Confederation of Island Principalities"
+LIC_fascism_DEF:0 "The Lesser Confederation of Island Principalities"
+
+
+LMB_neutrality:0 "Lammbouir"
+LMB_neutrality_DEF:0 "Lammbouir"
+LMB_democratic:0 "Lammbouir"
+LMB_democratic_DEF:0 "Lammbouir"
+LMB_communism:0 "Lammbouir"
+LMB_communism_DEF:0 "Lammbouir"
+LMB_fascism:0 "Lammbouir"
+LMB_fascism_DEF:0 "Lammbouir"
+
+
+RUI_neutrality:0 "Ruinaires"
+RUI_neutrality_DEF:0 "Ruinaires"
+RUI_democratic:0 "Ruinaires"
+RUI_democratic_DEF:0 "Ruinaires"
+RUI_communism:0 "Ruinaires"
+RUI_communism_DEF:0 "Ruinaires"
+RUI_fascism:0 "Ruinaires"
+RUI_fascism_DEF:0 "Ruinaires"
+
+
+CTL_neutrality:0 "Costilliere"
+CTL_neutrality_DEF:0 "Costilliere"
+CTL_democratic:0 "Costilliere"
+CTL_democratic_DEF:0 "Costilliere"
+CTL_communism:0 "Costilliere"
+CTL_communism_DEF:0 "Costilliere"
+CTL_fascism:0 "Costilliere"
+CTL_fascism_DEF:0 "Costilliere"
+
+
+PIR_neutrality:0 "Pirate Cove"
+PIR_neutrality_DEF:0 "The Merchant cove of Pirates"
+PIR_democratic:0 "Pirate Cove"
+PIR_democratic_DEF:0 "The Merchant cove of Pirates"
+PIR_communism:0 "Pirate Cove"
+PIR_communism_DEF:0 "The Merchant cove of Pirates"
+PIR_fascism:0 "Pirate Cove"
+PIR_fascism_DEF:0 "The Merchant cove of Pirates"
+
+
+UMB_neutrality:0 "United Mercenary Bands"
+UMB_neutrality_DEF:0 "The Union of Mercenary Bands"
+UMB_democratic:0 "United Mercenary Bands"
+UMB_democratic_DEF:0 "The Union of Mercenary Bands"
+UMB_communism:0 "United Mercenary Bands"
+UMB_communism_DEF:0 "The Union of Mercenary Bands"
+UMB_fascism:0 "United Mercenary Bands"
+UMB_fascism_DEF:0 "The Union of Mercenary Bands"
+
+
+SGM_neutrality:0 "Ösigvmutan"
+SGM_neutrality_DEF:0 "Dae Ösigvmutan Kvutiz"
+SGM_democratic:0 "Ösigvmutan"
+SGM_democratic_DEF:0 "Dae Ösigvmutan Kvutiz"
+SGM_communism:0 "Ösigvmutan"
+SGM_communism_DEF:0 "Dae Ösigvmutan Kvutiz"
+SGM_fascism:0 "Ösigvmutan"
+SGM_fascism_DEF:0 "Dae Ösigvmutan Kvutiz"
+
+
+NLQ_neutrality:0 "Norlorqs"
+NLQ_neutrality_DEF:0 "Norlorqs"
+NLQ_democratic:0 "Norlorqs"
+NLQ_democratic_DEF:0 "Norlorqs"
+NLQ_communism:0 "Norlorqs"
+NLQ_communism_DEF:0 "Norlorqs"
+NLQ_fascism:0 "Norlorqs"
+NLQ_fascism_DEF:0 "Norlorqs"
+
+
+UDL_neutrality:0 "Uldrikland"
+UDL_neutrality_DEF:0 "Landen af Uldrik denne Store"
+UDL_democratic:0 "Uldrikland"
+UDL_democratic_DEF:0 "Landen af Uldrik denne Store"
+UDL_communism:0 "Uldrikland"
+UDL_communism_DEF:0 "Landen af Uldrik denne Store"
+UDL_fascism:0 "Uldrikland"
+UDL_fascism_DEF:0 "Landen af Uldrik denne Store"
+
+
+SUI_neutrality:0 "Sarroui"
+SUI_neutrality_DEF:0 "Sarroui"
+SUI_democratic:0 "Sarroui"
+SUI_democratic_DEF:0 "Sarroui"
+SUI_communism:0 "Sarroui"
+SUI_communism_DEF:0 "Sarroui"
+SUI_fascism:0 "Sarroui"
+SUI_fascism_DEF:0 "Sarroui"
+
+
+ITZ_neutrality:0 "Itzerla"
+ITZ_neutrality_DEF:0 "Aev't Itzerli Kivmacosta"
+ITZ_democratic:0 "Itzerla"
+ITZ_democratic_DEF:0 "Aev't Itzerli Kivmacosta"
+ITZ_communism:0 "Itzerla"
+ITZ_communism_DEF:0 "Aev't Itzerli Kivmacosta"
+ITZ_fascism:0 "Itzerla"
+ITZ_fascism_DEF:0 "Aev't Itzerli Kivmacosta"
+
+
+IQI_neutrality:0 "Isletueteriqui"
+IQI_neutrality_DEF:0 "Islatae Isletueteriqui Quimon Qui"
+IQI_democratic:0 "Isletueteriqui"
+IQI_democratic_DEF:0 "Islatae Isletueteriqui Quimon Qui"
+IQI_communism:0 "Isletueteriqui"
+IQI_communism_DEF:0 "Islatae Isletueteriqui Quimon Qui"
+IQI_fascism:0 "Isletueteriqui"
+IQI_fascism_DEF:0 "Islatae Isletueteriqui Quimon Qui"
+
+
+NQV_neutrality:0 "Norriquiva Militaritzia General"
+NQV_neutrality_DEF:0 "Generalitz Militaritzia d' Norriquiva"
+NQV_democratic:0 "Norriquiva Militaritzia General"
+NQV_democratic_DEF:0 "Generalitz Militaritzia d' Norriquiva"
+NQV_communism:0 "Norriquiva Militaritzia General"
+NQV_communism_DEF:0 "Generalitz Militaritzia d' Norriquiva"
+NQV_fascism:0 "Norriquiva Militaritzia General"
+NQV_fascism_DEF:0 "Generalitz Militaritzia d' Norriquiva"
+
+
+SQV_neutrality:0 "Surriquiva acombatro a folgas"
+SQV_neutrality_DEF:0 "Al acombatro a de folgas Surriquiva"
+SQV_democratic:0 "Surriquiva acombatro a folgas"
+SQV_democratic_DEF:0 "Al acombatro a de folgas Surriquiva"
+SQV_communism:0 "Surriquiva acombatro a folgas"
+SQV_communism_DEF:0 "Al acombatro a de folgas Surriquiva"
+SQV_fascism:0 "Surriquiva acombatro a folgas"
+SQV_fascism_DEF:0 "Al acombatro a de folgas Surriquiva"
+
+
+FSH_neutrality:0 "F'ish"
+FSH_neutrality_DEF:0 "Union of F'ish people"
+FSH_democratic:0 "F'ish"
+FSH_democratic_DEF:0 "Union of F'ish people"
+FSH_communism:0 "F'ish"
+FSH_communism_DEF:0 "Union of F'ish people"
+FSH_fascism:0 "F'ish"
+FSH_fascism_DEF:0 "Union of F'ish people"
+
+
+FAL_neutrality:0 "Falandia"
+FAL_neutrality_DEF:0 "The Grand Duchy of Falandia"
+FAL_democratic:0 "Falandia"
+FAL_democratic_DEF:0 "The Grand Duchy of Falandia"
+FAL_communism:0 "Falandia"
+FAL_communism_DEF:0 "The Grand Duchy of Falandia"
+FAL_fascism:0 "Falandia"
+FAL_fascism_DEF:0 "The Grand Duchy of Falandia"
+
+
+SVL_neutrality:0 "Sarvundland"
+SVL_neutrality_DEF:0 "Der treue land af Sarvund"
+SVL_democratic:0 "Sarvundland"
+SVL_democratic_DEF:0 "Der treue land af Sarvund"
+SVL_communism:0 "Sarvundland"
+SVL_communism_DEF:0 "Der treue land af Sarvund"
+SVL_fascism:0 "Sarvundland"
+SVL_fascism_DEF:0 "Der treue land af Sarvund"
+
+
+TTR_neutrality:0 "The Tall Republic"
+TTR_neutrality_DEF:0 "The Democratic Union of The Mountains"
+TTR_democratic:0 "The Tall Republic"
+TTR_democratic_DEF:0 "The Democratic Union of The Mountains"
+TTR_communism:0 "The Tall Republic"
+TTR_communism_DEF:0 "The Democratic Union of The Mountains"
+TTR_fascism:0 "The Tall Republic"
+TTR_fascism_DEF:0 "The Democratic Union of The Mountains"
+
+
+GTL_neutrality:0 "Gaestertland"
+GTL_neutrality_DEF:0 "Kungadömmet Götaland"
+GTL_democratic:0 "Gaestertland"
+GTL_democratic_DEF:0 "Kungadömmet Götaland"
+GTL_communism:0 "Gaestertland"
+GTL_communism_DEF:0 "Kungadömmet Götaland"
+GTL_fascism:0 "Gaestertland"
+GTL_fascism_DEF:0 "Kungadömmet Götaland"
+
+
+GCT_neutrality:0 "Günther Cult"
+GCT_neutrality_DEF:0 "The cult of Günther"
+GCT_democratic:0 "Günther Cult"
+GCT_democratic_DEF:0 "The cult of Günther"
+GCT_communism:0 "Günther Cult"
+GCT_communism_DEF:0 "The cult of Günther"
+GCT_fascism:0 "Günther Cult"
+GCT_fascism_DEF:0 "The cult of Günther"
+
+
+LSA_neutrality:0 "Linguisatia"
+LSA_neutrality_DEF:0 "TheTrueBelievers"
+LSA_democratic:0 "Linguisatia"
+LSA_democratic_DEF:0 "TheTrueBelievers"
+LSA_communism:0 "Linguisatia"
+LSA_communism_DEF:0 "TheTrueBelievers"
+LSA_fascism:0 "Linguisatia"
+LSA_fascism_DEF:0 "TheTrueBelievers"
+
+
+VTR_neutrality:0 "Vasterreich"
+VTR_neutrality_DEF:0 "Der Västerreich"
+VTR_democratic:0 "Vasterreich"
+VTR_democratic_DEF:0 "Der Västerreich"
+VTR_communism:0 "Vasterreich"
+VTR_communism_DEF:0 "Der Västerreich"
+VTR_fascism:0 "Vasterreich"
+VTR_fascism_DEF:0 "Der Västerreich"
+
+
+JHT_neutrality:0 "Jaggdhunt"
+JHT_neutrality_DEF:0 "Jaggdhuntsgruppen"
+JHT_democratic:0 "Jaggdhunt"
+JHT_democratic_DEF:0 "Jaggdhuntsgruppen"
+JHT_communism:0 "Jaggdhunt"
+JHT_communism_DEF:0 "Jaggdhuntsgruppen"
+JHT_fascism:0 "Jaggdhunt"
+JHT_fascism_DEF:0 "Jaggdhuntsgruppen"
+
+
+SSE_neutrality:0 "SchiffesEinlass"
+SSE_neutrality_DEF:0 "SchiffesEinlassrepublik"
+SSE_democratic:0 "SchiffesEinlass"
+SSE_democratic_DEF:0 "SchiffesEinlassrepublik"
+SSE_communism:0 "SchiffesEinlass"
+SSE_communism_DEF:0 "SchiffesEinlassrepublik"
+SSE_fascism:0 "SchiffesEinlass"
+SSE_fascism_DEF:0 "SchiffesEinlassrepublik"
+
+
+AGT_neutrality:0 "Aggatten"
+AGT_neutrality_DEF:0 "Der Königsreich Aggatten"
+AGT_democratic:0 "Aggatten"
+AGT_democratic_DEF:0 "Der Königsreich Aggatten"
+AGT_communism:0 "Aggatten"
+AGT_communism_DEF:0 "Der Königsreich Aggatten"
+AGT_fascism:0 "Aggatten"
+AGT_fascism_DEF:0 "Der Königsreich Aggatten"
+
+
+KGI_neutrality:0 "Kolgi"
+KGI_neutrality_DEF:0 "Kolgi Karavazt"
+KGI_democratic:0 "Kolgi"
+KGI_democratic_DEF:0 "Kolgi Karavazt"
+KGI_communism:0 "Kolgi"
+KGI_communism_DEF:0 "Kolgi Karavazt"
+KGI_fascism:0 "Kolgi"
+KGI_fascism_DEF:0 "Kolgi Karavazt"
+
+
+AEN_neutrality:0 "Anetian"
+AEN_neutrality_DEF:0 "Anetian Underrepublik"
+AEN_democratic:0 "Anetian"
+AEN_democratic_DEF:0 "Anetian Underrepublik"
+AEN_communism:0 "Anetian"
+AEN_communism_DEF:0 "Anetian Underrepublik"
+AEN_fascism:0 "Anetian"
+AEN_fascism_DEF:0 "Anetian Underrepublik"
+
+
+IKN_neutrality:0 "Intkarnen"
+IKN_neutrality_DEF:0 "Der Grossreich Intkarnen"
+IKN_democratic:0 "Intkarnen"
+IKN_democratic_DEF:0 "Der Grossreich Intkarnen"
+IKN_communism:0 "Intkarnen"
+IKN_communism_DEF:0 "Der Grossreich Intkarnen"
+IKN_fascism:0 "Intkarnen"
+IKN_fascism_DEF:0 "Der Grossreich Intkarnen"
+
+
+SMT_neutrality:0 "Skogsmakten"
+SMT_neutrality_DEF:0 "Makten av Skogens Undersåtar"
+SMT_democratic:0 "Skogsmakten"
+SMT_democratic_DEF:0 "Makten av Skogens Undersåtar"
+SMT_communism:0 "Skogsmakten"
+SMT_communism_DEF:0 "Makten av Skogens Undersåtar"
+SMT_fascism:0 "Skogsmakten"
+SMT_fascism_DEF:0 "Makten av Skogens Undersåtar"
+
+
+OLL_neutrality:0 "Olofsland"
+OLL_neutrality_DEF:0 "Olofs land"
+OLL_democratic:0 "Olofsland"
+OLL_democratic_DEF:0 "Olofs land"
+OLL_communism:0 "Olofsland"
+OLL_communism_DEF:0 "Olofs land"
+OLL_fascism:0 "Olofsland"
+OLL_fascism_DEF:0 "Olofs land"
+
+
+SSN_neutrality:0 "Sashanation"
+SSN_neutrality_DEF:0 "Sashanation"
+SSN_democratic:0 "Sashanation"
+SSN_democratic_DEF:0 "Sashanation"
+SSN_communism:0 "Sashanation"
+SSN_communism_DEF:0 "Sashanation"
+SSN_fascism:0 "Sashanation"
+SSN_fascism_DEF:0 "Sashanation"
+
+
+SKT_neutrality:0 "Storkusten"
+SKT_neutrality_DEF:0 "Den Stora Kusten"
+SKT_democratic:0 "Storkusten"
+SKT_democratic_DEF:0 "Den Stora Kusten"
+SKT_communism:0 "Storkusten"
+SKT_communism_DEF:0 "Den Stora Kusten"
+SKT_fascism:0 "Storkusten"
+SKT_fascism_DEF:0 "Den Stora Kusten"
+
+
+GAT_neutrality:0 "Grunnnarten"
+GAT_neutrality_DEF:0 "Grunnartenerz"
+GAT_democratic:0 "Grunnnarten"
+GAT_democratic_DEF:0 "Grunnartenerz"
+GAT_communism:0 "Grunnnarten"
+GAT_communism_DEF:0 "Grunnartenerz"
+GAT_fascism:0 "Grunnnarten"
+GAT_fascism_DEF:0 "Grunnartenerz"
+
+
+DNS_neutrality:0 "Disunited Northern Strongholds"
+DNS_neutrality_DEF:0 "The Disunited Northern Strongholds"
+DNS_democratic:0 "Disunited Northern Strongholds"
+DNS_democratic_DEF:0 "The Disunited Northern Strongholds"
+DNS_communism:0 "Disunited Northern Strongholds"
+DNS_communism_DEF:0 "The Disunited Northern Strongholds"
+DNS_fascism:0 "Disunited Northern Strongholds"
+DNS_fascism_DEF:0 "The Disunited Northern Strongholds"
+
+
+FBS_neutrality:0 "Fjellbyestaten"
+FBS_neutrality_DEF:0 "Fjellbyebyerne"
+FBS_democratic:0 "Fjellbyestaten"
+FBS_democratic_DEF:0 "Fjellbyebyerne"
+FBS_communism:0 "Fjellbyestaten"
+FBS_communism_DEF:0 "Fjellbyebyerne"
+FBS_fascism:0 "Fjellbyestaten"
+FBS_fascism_DEF:0 "Fjellbyebyerne"
+
+
+SKR_neutrality:0 "Storkratern"
+SKR_neutrality_DEF:0 "Stora S�derkratern"
+SKR_democratic:0 "Storkratern"
+SKR_democratic_DEF:0 "Stora S�derkratern"
+SKR_communism:0 "Storkratern"
+SKR_communism_DEF:0 "Stora S�derkratern"
+SKR_fascism:0 "Storkratern"
+SKR_fascism_DEF:0 "Stora S�derkratern"
+
+
+DVN_neutrality:0 "DjurVannerna"
+DVN_neutrality_DEF:0 "Djur v�nnerna "
+DVN_democratic:0 "DjurVannerna"
+DVN_democratic_DEF:0 "Djur v�nnerna "
+DVN_communism:0 "DjurVannerna"
+DVN_communism_DEF:0 "Djur v�nnerna "
+DVN_fascism:0 "DjurVannerna"
+DVN_fascism_DEF:0 "Djur v�nnerna "
+
+
+GTK_neutrality:0 "Gustafskust"
+GTK_neutrality_DEF:0 "Gustafs Kustliga Kungadömme"
+GTK_democratic:0 "Gustafskust"
+GTK_democratic_DEF:0 "Gustafs Kustliga Kungadömme"
+GTK_communism:0 "Gustafskust"
+GTK_communism_DEF:0 "Gustafs Kustliga Kungadömme"
+GTK_fascism:0 "Gustafskust"
+GTK_fascism_DEF:0 "Gustafs Kustliga Kungadömme"
+
+
+GNK_neutrality:0 "Grenakusten"
+GNK_neutrality_DEF:0 "Grenakusten"
+GNK_democratic:0 "Grenakusten"
+GNK_democratic_DEF:0 "Grenakusten"
+GNK_communism:0 "Grenakusten"
+GNK_communism_DEF:0 "Grenakusten"
+GNK_fascism:0 "Grenakusten"
+GNK_fascism_DEF:0 "Grenakusten"
+
+
+DVM_neutrality:0 "DavidssonsMark"
+DVM_neutrality_DEF:0 "Davidssons Marken"
+DVM_democratic:0 "DavidssonsMark"
+DVM_democratic_DEF:0 "Davidssons Marken"
+DVM_communism:0 "DavidssonsMark"
+DVM_communism_DEF:0 "Davidssons Marken"
+DVM_fascism:0 "DavidssonsMark"
+DVM_fascism_DEF:0 "Davidssons Marken"
+
+
+VMK_neutrality:0 "Visbys Militar kommando"
+VMK_neutrality_DEF:0 "Det överlevande Militärkommandot, Visby"
+VMK_democratic:0 "Visbys Militar kommando"
+VMK_democratic_DEF:0 "Det överlevande Militärkommandot, Visby"
+VMK_communism:0 "Visbys Militar kommando"
+VMK_communism_DEF:0 "Det överlevande Militärkommandot, Visby"
+VMK_fascism:0 "Visbys Militar kommando"
+VMK_fascism_DEF:0 "Det överlevande Militärkommandot, Visby"
+
+
+KKT_neutrality:0 "Karls Kungatron"
+KKT_neutrality_DEF:0 "Kungatronen av Karl den Store"
+KKT_democratic:0 "Karls Kungatron"
+KKT_democratic_DEF:0 "Kungatronen av Karl den Store"
+KKT_communism:0 "Karls Kungatron"
+KKT_communism_DEF:0 "Kungatronen av Karl den Store"
+KKT_fascism:0 "Karls Kungatron"
+KKT_fascism_DEF:0 "Kungatronen av Karl den Store"
+
+
+MKN_neutrality:0 "MellanKlammern"
+MKN_neutrality_DEF:0 "Mellanklammerstaten"
+MKN_democratic:0 "MellanKlammern"
+MKN_democratic_DEF:0 "Mellanklammerstaten"
+MKN_communism:0 "MellanKlammern"
+MKN_communism_DEF:0 "Mellanklammerstaten"
+MKN_fascism:0 "MellanKlammern"
+MKN_fascism_DEF:0 "Mellanklammerstaten"
+
+
+SJB_neutrality:0 "StorJohansBy"
+SJB_neutrality_DEF:0 "Byn av StorJohan"
+SJB_democratic:0 "StorJohansBy"
+SJB_democratic_DEF:0 "Byn av StorJohan"
+SJB_communism:0 "StorJohansBy"
+SJB_communism_DEF:0 "Byn av StorJohan"
+SJB_fascism:0 "StorJohansBy"
+SJB_fascism_DEF:0 "Byn av StorJohan"
+
+
+ERS_neutrality:0 "EriksStad"
+ERS_neutrality_DEF:0 "Eriksstaden"
+ERS_democratic:0 "EriksStad"
+ERS_democratic_DEF:0 "Eriksstaden"
+ERS_communism:0 "EriksStad"
+ERS_communism_DEF:0 "Eriksstaden"
+ERS_fascism:0 "EriksStad"
+ERS_fascism_DEF:0 "Eriksstaden"
+
+
+SSS_neutrality:0 "Stor Staten Sofie"
+SSS_neutrality_DEF:0 "Store Staten Sofie"
+SSS_democratic:0 "Stor Staten Sofie"
+SSS_democratic_DEF:0 "Store Staten Sofie"
+SSS_communism:0 "Stor Staten Sofie"
+SSS_communism_DEF:0 "Store Staten Sofie"
+SSS_fascism:0 "Stor Staten Sofie"
+SSS_fascism_DEF:0 "Store Staten Sofie"
+
+
+SBG_neutrality:0 "Storbergen"
+SBG_neutrality_DEF:0 "De Store Bergens Konungaland"
+SBG_democratic:0 "Storbergen"
+SBG_democratic_DEF:0 "De Store Bergens Konungaland"
+SBG_communism:0 "Storbergen"
+SBG_communism_DEF:0 "De Store Bergens Konungaland"
+SBG_fascism:0 "Storbergen"
+SBG_fascism_DEF:0 "De Store Bergens Konungaland"
+
+
+KLG_neutrality:0 "Kartlannegutt "
+KLG_neutrality_DEF:0 "Kartlannegutten"
+KLG_democratic:0 "Kartlannegutt "
+KLG_democratic_DEF:0 "Kartlannegutten"
+KLG_communism:0 "Kartlannegutt "
+KLG_communism_DEF:0 "Kartlannegutten"
+KLG_fascism:0 "Kartlannegutt "
+KLG_fascism_DEF:0 "Kartlannegutten"
+
+
+SST_neutrality:0 "Sidstaratinan"
+SST_neutrality_DEF:0 "Denne Sidstaratinan"
+SST_democratic:0 "Sidstaratinan"
+SST_democratic_DEF:0 "Denne Sidstaratinan"
+SST_communism:0 "Sidstaratinan"
+SST_communism_DEF:0 "Denne Sidstaratinan"
+SST_fascism:0 "Sidstaratinan"
+SST_fascism_DEF:0 "Denne Sidstaratinan"
+
+
+KLV_neutrality:0 "Kvareleveran"
+KLV_neutrality_DEF:0 "Kvara dea leva saegen"
+KLV_democratic:0 "Kvareleveran"
+KLV_democratic_DEF:0 "Kvara dea leva saegen"
+KLV_communism:0 "Kvareleveran"
+KLV_communism_DEF:0 "Kvara dea leva saegen"
+KLV_fascism:0 "Kvareleveran"
+KLV_fascism_DEF:0 "Kvara dea leva saegen"
+
+
+KTN_neutrality:0 "Kanten"
+KTN_neutrality_DEF:0 "Soere Kanten"
+KTN_democratic:0 "Kanten"
+KTN_democratic_DEF:0 "Soere Kanten"
+KTN_communism:0 "Kanten"
+KTN_communism_DEF:0 "Soere Kanten"
+KTN_fascism:0 "Kanten"
+KTN_fascism_DEF:0 "Soere Kanten"
+
+
+CLA_neutrality:0 "Courlia"
+CLA_neutrality_DEF:0 "Courlian Republic"
+CLA_democratic:0 "Courlia"
+CLA_democratic_DEF:0 "Courlian Republic"
+CLA_communism:0 "Courlia"
+CLA_communism_DEF:0 "Courlian Republic"
+CLA_fascism:0 "Courlia"
+CLA_fascism_DEF:0 "Courlian Republic"
+
+
+ACE_neutrality:0 "Acriczte"
+ACE_neutrality_DEF:0 "Acriczte Merchants Union"
+ACE_democratic:0 "Acriczte"
+ACE_democratic_DEF:0 "Acriczte Merchants Union"
+ACE_communism:0 "Acriczte"
+ACE_communism_DEF:0 "Acriczte Merchants Union"
+ACE_fascism:0 "Acriczte"
+ACE_fascism_DEF:0 "Acriczte Merchants Union"
+
+
+CMA_neutrality:0 "Crezmia"
+CMA_neutrality_DEF:0 "Crezmian Island Kingdom"
+CMA_democratic:0 "Crezmia"
+CMA_democratic_DEF:0 "Crezmian Island Kingdom"
+CMA_communism:0 "Crezmia"
+CMA_communism_DEF:0 "Crezmian Island Kingdom"
+CMA_fascism:0 "Crezmia"
+CMA_fascism_DEF:0 "Crezmian Island Kingdom"
+
+
+UKH_neutrality:0 "Utssig Khaganate"
+UKH_neutrality_DEF:0 "Utssig Khaganate"
+UKH_democratic:0 "Utssig Khaganate"
+UKH_democratic_DEF:0 "Utssig Khaganate"
+UKH_communism:0 "Utssig Khaganate"
+UKH_communism_DEF:0 "Utssig Khaganate"
+UKH_fascism:0 "Utssig Khaganate"
+UKH_fascism_DEF:0 "Utssig Khaganate"
+
+
+TZA_neutrality:0 "Tzerlia"
+TZA_neutrality_DEF:0 "Tzerlian Watocracy"
+TZA_democratic:0 "Tzerlia"
+TZA_democratic_DEF:0 "Tzerlian Watocracy"
+TZA_communism:0 "Tzerlia"
+TZA_communism_DEF:0 "Tzerlian Watocracy"
+TZA_fascism:0 "Tzerlia"
+TZA_fascism_DEF:0 "Tzerlian Watocracy"
+
+
+LIU_neutrality:0 "Liuquarden"
+LIU_neutrality_DEF:0 "Liuquarden Watocracy"
+LIU_democratic:0 "Liuquarden"
+LIU_democratic_DEF:0 "Liuquarden Watocracy"
+LIU_communism:0 "Liuquarden"
+LIU_communism_DEF:0 "Liuquarden Watocracy"
+LIU_fascism:0 "Liuquarden"
+LIU_fascism_DEF:0 "Liuquarden Watocracy"
+
+
+KGE_neutrality:0 "Karguele"
+KGE_neutrality_DEF:0 "Karguele Watocracy"
+KGE_democratic:0 "Karguele"
+KGE_democratic_DEF:0 "Karguele Watocracy"
+KGE_communism:0 "Karguele"
+KGE_communism_DEF:0 "Karguele Watocracy"
+KGE_fascism:0 "Karguele"
+KGE_fascism_DEF:0 "Karguele Watocracy"
+
+
+KLA_neutrality:0 "Karlenia"
+KLA_neutrality_DEF:0 "Karlenian Kaiserreich"
+KLA_democratic:0 "Karlenia"
+KLA_democratic_DEF:0 "Karlenian Kaiserreich"
+KLA_communism:0 "Karlenia"
+KLA_communism_DEF:0 "Karlenian Kaiserreich"
+KLA_fascism:0 "Karlenia"
+KLA_fascism_DEF:0 "Karlenian Kaiserreich"
+
+
+LUA_neutrality:0 "Luthria"
+LUA_neutrality_DEF:0 "Luthria"
+LUA_democratic:0 "Luthria"
+LUA_democratic_DEF:0 "Luthria"
+LUA_communism:0 "Luthria"
+LUA_communism_DEF:0 "Luthria"
+LUA_fascism:0 "Luthria"
+LUA_fascism_DEF:0 "Luthria"
+
+
+MIN_neutrality:0 "Minska"
+MIN_neutrality_DEF:0 "Minska"
+MIN_democratic:0 "Minska"
+MIN_democratic_DEF:0 "Minska"
+MIN_communism:0 "Minska"
+MIN_communism_DEF:0 "Minska"
+MIN_fascism:0 "Minska"
+MIN_fascism_DEF:0 "Minska"
+
+
+KAA_neutrality:0 "Karlia"
+KAA_neutrality_DEF:0 "Karlia"
+KAA_democratic:0 "Karlia"
+KAA_democratic_DEF:0 "Karlia"
+KAA_communism:0 "Karlia"
+KAA_communism_DEF:0 "Karlia"
+KAA_fascism:0 "Karlia"
+KAA_fascism_DEF:0 "Karlia"
+
+
+MEN_neutrality:0 "Mergan"
+MEN_neutrality_DEF:0 "Mergan"
+MEN_democratic:0 "Mergan"
+MEN_democratic_DEF:0 "Mergan"
+MEN_communism:0 "Mergan"
+MEN_communism_DEF:0 "Mergan"
+MEN_fascism:0 "Mergan"
+MEN_fascism_DEF:0 "Mergan"
+
+
+VYE_neutrality:0 "Vyrrian Empire"
+VYE_neutrality_DEF:0 "Vyrrian Empire"
+VYE_democratic:0 "Vyrrian Empire"
+VYE_democratic_DEF:0 "Vyrrian Empire"
+VYE_communism:0 "Vyrrian Empire"
+VYE_communism_DEF:0 "Vyrrian Empire"
+VYE_fascism:0 "Vyrrian Empire"
+VYE_fascism_DEF:0 "Vyrrian Empire"
+
+
+NVT_neutrality:0 "NavalTribes"
+NVT_neutrality_DEF:0 "1345"
+NVT_democratic:0 "NavalTribes"
+NVT_democratic_DEF:0 "1345"
+NVT_communism:0 "NavalTribes"
+NVT_communism_DEF:0 "1345"
+NVT_fascism:0 "NavalTribes"
+NVT_fascism_DEF:0 "1345"
+
+
+FGC_neutrality:0 "Federation of Greek Cities"
+FGC_neutrality_DEF:0 "Greek Federation"
+FGC_democratic:0 "Federation of Greek Cities"
+FGC_democratic_DEF:0 "Greek Federation"
+FGC_communism:0 "Federation of Greek Cities"
+FGC_communism_DEF:0 "Greek Federation"
+FGC_fascism:0 "Federation of Greek Cities"
+FGC_fascism_DEF:0 "Greek Federation"
+
+
+AII_neutrality:0 "Akiri"
+AII_neutrality_DEF:0 "Akiria"
+AII_democratic:0 "Akiri"
+AII_democratic_DEF:0 "Akiria"
+AII_communism:0 "Akiri"
+AII_communism_DEF:0 "Akiria"
+AII_fascism:0 "Akiri"
+AII_fascism_DEF:0 "Akiria"
+
+
+VNA_neutrality:0 "Vanetia"
+VNA_neutrality_DEF:0 "Vanetian Islands"
+VNA_democratic:0 "Vanetia"
+VNA_democratic_DEF:0 "Vanetian Islands"
+VNA_communism:0 "Vanetia"
+VNA_communism_DEF:0 "Vanetian Islands"
+VNA_fascism:0 "Vanetia"
+VNA_fascism_DEF:0 "Vanetian Islands"
+
+
+CEI_neutrality:0 "Celinia"
+CEI_neutrality_DEF:0 "Celiniana"
+CEI_democratic:0 "Celinia"
+CEI_democratic_DEF:0 "Celiniana"
+CEI_communism:0 "Celinia"
+CEI_communism_DEF:0 "Celiniana"
+CEI_fascism:0 "Celinia"
+CEI_fascism_DEF:0 "Celiniana"
+
+
+GCY_neutrality:0 "Golden City"
+GCY_neutrality_DEF:0 "Golden City"
+GCY_democratic:0 "Golden City"
+GCY_democratic_DEF:0 "Golden City"
+GCY_communism:0 "Golden City"
+GCY_communism_DEF:0 "Golden City"
+GCY_fascism:0 "Golden City"
+GCY_fascism_DEF:0 "Golden City"
+
+
+MAL_neutrality:0 "Maltia"
+MAL_neutrality_DEF:0 "Maltia"
+MAL_democratic:0 "Maltia"
+MAL_democratic_DEF:0 "Maltia"
+MAL_communism:0 "Maltia"
+MAL_communism_DEF:0 "Maltia"
+MAL_fascism:0 "Maltia"
+MAL_fascism_DEF:0 "Maltia"
+
+
+ILI_neutrality:0 "Islas Lisabona"
+ILI_neutrality_DEF:0 "Islas de Lisabona"
+ILI_democratic:0 "Islas Lisabona"
+ILI_democratic_DEF:0 "Islas de Lisabona"
+ILI_communism:0 "Islas Lisabona"
+ILI_communism_DEF:0 "Islas de Lisabona"
+ILI_fascism:0 "Islas Lisabona"
+ILI_fascism_DEF:0 "Islas de Lisabona"
+
+
+KKA_neutrality:0 "Kalvi Khanate"
+KKA_neutrality_DEF:0 "Kalvi Khanate"
+KKA_democratic:0 "Kalvi Khanate"
+KKA_democratic_DEF:0 "Kalvi Khanate"
+KKA_communism:0 "Kalvi Khanate"
+KKA_communism_DEF:0 "Kalvi Khanate"
+KKA_fascism:0 "Kalvi Khanate"
+KKA_fascism_DEF:0 "Kalvi Khanate"
+
+
+CUU_neutrality:0 "Cuulia"
+CUU_neutrality_DEF:0 "Cuulian Regency"
+CUU_democratic:0 "Cuulia"
+CUU_democratic_DEF:0 "Cuulian Regency"
+CUU_communism:0 "Cuulia"
+CUU_communism_DEF:0 "Cuulian Regency"
+CUU_fascism:0 "Cuulia"
+CUU_fascism_DEF:0 "Cuulian Regency"
+
+
+FIN_neutrality:0 "Finlandia"
+FIN_neutrality_DEF:0 "Finlandia"
+FIN_democratic:0 "Finlandia"
+FIN_democratic_DEF:0 "Finlandia"
+FIN_communism:0 "Finlandia"
+FIN_communism_DEF:0 "Finlandia"
+FIN_fascism:0 "Finlandia"
+FIN_fascism_DEF:0 "Finlandia"
+
+
+RIG_neutrality:0 "Rigua"
+RIG_neutrality_DEF:0 "Rigua"
+RIG_democratic:0 "Rigua"
+RIG_democratic_DEF:0 "Rigua"
+RIG_communism:0 "Rigua"
+RIG_communism_DEF:0 "Rigua"
+RIG_fascism:0 "Rigua"
+RIG_fascism_DEF:0 "Rigua"
+
+
+CEE_neutrality:0 "Castyrian Empire"
+CEE_neutrality_DEF:0 "Castyrian Empire"
+CEE_democratic:0 "Castyrian Empire"
+CEE_democratic_DEF:0 "Castyrian Empire"
+CEE_communism:0 "Castyrian Empire"
+CEE_communism_DEF:0 "Castyrian Empire"
+CEE_fascism:0 "Castyrian Empire"
+CEE_fascism_DEF:0 "Castyrian Empire"
+
+
+ZDS_neutrality:0 "Zaladoslavie"
+ZDS_neutrality_DEF:0 "Zaladoslaive Zalazka"
+ZDS_democratic:0 "Zaladoslavie"
+ZDS_democratic_DEF:0 "Zaladoslaive Zalazka"
+ZDS_communism:0 "Zaladoslavie"
+ZDS_communism_DEF:0 "Zaladoslaive Zalazka"
+ZDS_fascism:0 "Zaladoslavie"
+ZDS_fascism_DEF:0 "Zaladoslaive Zalazka"
+
+
+RDS_neutrality:0 "Regencia del sud"
+RDS_neutrality_DEF:0 "Regencia del sud"
+RDS_democratic:0 "Regencia del sud"
+RDS_democratic_DEF:0 "Regencia del sud"
+RDS_communism:0 "Regencia del sud"
+RDS_communism_DEF:0 "Regencia del sud"
+RDS_fascism:0 "Regencia del sud"
+RDS_fascism_DEF:0 "Regencia del sud"
+
+
+GAL_neutrality:0 "Galicia"
+GAL_neutrality_DEF:0 "Galician Republic"
+GAL_democratic:0 "Galicia"
+GAL_democratic_DEF:0 "Galician Republic"
+GAL_communism:0 "Galicia"
+GAL_communism_DEF:0 "Galician Republic"
+GAL_fascism:0 "Galicia"
+GAL_fascism_DEF:0 "Galician Republic"
+
+
+ISL_neutrality:0 "Ísland"
+ISL_neutrality_DEF:0 "Islandsstati"
+ISL_democratic:0 "Ísland"
+ISL_democratic_DEF:0 "Islandsstati"
+ISL_communism:0 "Ísland"
+ISL_communism_DEF:0 "Islandsstati"
+ISL_fascism:0 "Ísland"
+ISL_fascism_DEF:0 "Islandsstati"
+
+
+NGD_neutrality:0 "Novgorod"
+NGD_neutrality_DEF:0 "Novgorod State"
+NGD_democratic:0 "Novgorod"
+NGD_democratic_DEF:0 "Novgorod State"
+NGD_communism:0 "Novgorod"
+NGD_communism_DEF:0 "Novgorod State"
+NGD_fascism:0 "Novgorod"
+NGD_fascism_DEF:0 "Novgorod State"
+
+
+LIN_neutrality:0 "Litgarten"
+LIN_neutrality_DEF:0 "Litgarten"
+LIN_democratic:0 "Litgarten"
+LIN_democratic_DEF:0 "Litgarten"
+LIN_communism:0 "Litgarten"
+LIN_communism_DEF:0 "Litgarten"
+LIN_fascism:0 "Litgarten"
+LIN_fascism_DEF:0 "Litgarten"
+
+
+AUU_neutrality:0 "Auvurgen"
+AUU_neutrality_DEF:0 "Auvurgen"
+AUU_democratic:0 "Auvurgen"
+AUU_democratic_DEF:0 "Auvurgen"
+AUU_communism:0 "Auvurgen"
+AUU_communism_DEF:0 "Auvurgen"
+AUU_fascism:0 "Auvurgen"
+AUU_fascism_DEF:0 "Auvurgen"
 
- LSA_neutrality:0 "Linguisatia"
- LSA_neutrality_DEF:0 "TheTrueBelievers"
-
- VTR_neutrality:0 "Vasterreich"
- VTR_neutrality_DEF:0 "Der V�sterreich"
-
- JHT_neutrality:0 "Jaggdhunt"
- JHT_neutrality_DEF:0 "Jaggdhuntsgruppen"
-
- SSE_neutrality:0 "SchiffesEinlass"
- SSE_neutrality_DEF:0 "SchiffesEinlassrepublik"
-
- AGT_neutrality:0 "Aggatten"
- AGT_neutrality_DEF:0 "Der K�nigsreich Aggatten"
-
- KGI_neutrality:0 "Kolgi"
- KGI_neutrality_DEF:0 "Kolgi Karavazt"
-
- AEN_neutrality:0 "Anetian"
- AEN_neutrality_DEF:0 "Anetian Underrepublik"
-
- IKN_neutrality:0 "Intkarnen"
- IKN_neutrality_DEF:0 "Der Grossreich Intkarnen"
-
- SMT_neutrality:0 "Skogsmakten"
- SMT_neutrality_DEF:0 "Makten av Skogens Unders�tar"
-
- GTL_neutrality:0 "Gotaland"
- GTL_neutrality_DEF:0 "Kungad�mmet G�taland"
-
- OLL_neutrality:0 "Olofsland"
- OLL_neutrality_DEF:0 "Olofs land"
-
- SSN_neutrality:0 "Sashanation"
- SSN_neutrality_DEF:0 "Sashanation"
-
- SKT_neutrality:0 "Storkusten"
- SKT_neutrality_DEF:0 "Den Stora Kusten"
-
- GAT_neutrality:0 "Grunnnarten"
- GAT_neutrality_DEF:0 "Grunnartenerz"
-
- DNS_neutrality:0 "Disunited Northern Strongholds"
- DNS_neutrality_DEF:0 "The Disunited Northern Strongholds"
-
- FBS_neutrality:0 "Fjellbyestaten"
- FBS_neutrality_DEF:0 "Fjellbyebyerne"
-
- SKR_neutrality:0 "Storkratern"
- SKR_neutrality_DEF:0 "Stora S�derkratern"
-
- DVN_neutrality:0 "DjurVannerna"
- DVN_neutrality_DEF:0 "Djur v�nnerna "
-
- GTK_neutrality:0 "Gustafskust"
- GTK_neutrality_DEF:0 "Gustafs Kustliga Kungad�mme"
-
- GNK_neutrality:0 "Grenakusten"
- GNK_neutrality_DEF:0 "Grenakusten"
-
- DVM_neutrality:0 "DavidssonsMark"
- DVM_neutrality_DEF:0 "Davidssons Marken"
-
- VMK_neutrality:0 "Visbys Militar kommando"
- VMK_neutrality_DEF:0 "Det �verlevande Milit�rkommandot, Visby"
-
- KKT_neutrality:0 "Karls Kungatron"
- KKT_neutrality_DEF:0 "Kungatronen av Karl den Store"
-
- MKN_neutrality:0 "MellanKlammern"
- MKN_neutrality_DEF:0 "Mellanklammerstaten"
-
- SJB_neutrality:0 "StorJohansBy"
- SJB_neutrality_DEF:0 "Byn av StorJohan"
-
- ERS_neutrality:0 "EriksStad"
- ERS_neutrality_DEF:0 "Eriksstaden"
-
- SSS_neutrality:0 "Stor Staten Sofie"
- SSS_neutrality_DEF:0 "Store Staten Sofie"
-
- SBG_neutrality:0 "Storbergen"
- SBG_neutrality_DEF:0 "De Store Bergens Konungaland"
-
- KLG_neutrality:0 "Kartlannegutt "
- KLG_neutrality_DEF:0 "Kartlannegutten"
-
- SST_neutrality:0 "Sidstaratinan"
- SST_neutrality_DEF:0 "Denne Sidstaratinan"
-
- KLV_neutrality:0 "Kvareleveran"
- KLV_neutrality_DEF:0 "Kvara dea leva saegen"
-
- KTN_neutrality:0 "Kanten"
- KTN_neutrality_DEF:0 "Soere Kanten"
-
- CLA_neutrality:0 "Courlia"
- CLA_neutrality_DEF:0 "Courlian Republic"
-
- ACE_neutrality:0 "Acriczte"
- ACE_neutrality_DEF:0 "Acriczte Merchants Union"
-
- CMA_neutrality:0 "Crezmia"
- CMA_neutrality_DEF:0 "Crezmian Island Kingdom"
-
- UKH_neutrality:0 "Utssig Khaganate"
- UKH_neutrality_DEF:0 "Utssig Khaganate"
-
- TZA_neutrality:0 "Tzerlia"
- TZA_neutrality_DEF:0 "Tzerlian Watocracy"
-
- LIU_neutrality:0 "Liuquarden"
- LIU_neutrality_DEF:0 "Liuquarden Watocracy"
-
- KGE_neutrality:0 "Karguele"
- KGE_neutrality_DEF:0 "Karguele Watocracy"
-
- KLA_neutrality:0 "Karlenia"
- KLA_neutrality_DEF:0 "Karlenian Kaiserreich"
-
- LUA_neutrality:0 "Luthria"
- LUA_neutrality_DEF:0 "Luthria"
-
- MIN_neutrality:0 "Minska"
- MIN_neutrality_DEF:0 "Minska"
-
- KAA_neutrality:0 "Karlia"
- KAA_neutrality_DEF:0 "Karlia"
-
- MEN_neutrality:0 "Mergan"
- MEN_neutrality_DEF:0 "Mergan"
-
- VYE_neutrality:0 "Vyrrian Empire"
- VYE_neutrality_DEF:0 "Vyrrian Empire"
-
- NVT_neutrality:0 "NavalTribes"
- NVT_neutrality_DEF:0 "1345"
-
- FGC_neutrality:0 "Federation of Greek Cities"
- FGC_neutrality_DEF:0 "Greek Federation"
-
- AII_neutrality:0 "Akiri"
- AII_neutrality_DEF:0 "Akiria"
-
- VNA_neutrality:0 "Vanetia"
- VNA_neutrality_DEF:0 "Vanetian Islands"
-
- CEI_neutrality:0 "Celinia"
- CEI_neutrality_DEF:0 "Celiniana"
-
- GCY_neutrality:0 "Golden City"
- GCY_neutrality_DEF:0 "Golden City"
-
- MAL_neutrality:0 "Maltia"
- MAL_neutrality_DEF:0 "Maltia"
-
- ILI_neutrality:0 "Islas Lisabona"
- ILI_neutrality_DEF:0 "Islas de Lisabona"
-
- KKA_neutrality:0 "Kalvi Khanate"
- KKA_neutrality_DEF:0 "Kalvi Khanate"
-
- CUU_neutrality:0 "Cuulia"
- CUU_neutrality_DEF:0 "Cuulian Regency"
-
- FIN_neutrality:0 "Finlandia"
- FIN_neutrality_DEF:0 "Finlandia"
-
- RIG_neutrality:0 "Rigua"
- RIG_neutrality_DEF:0 "Rigua"
-
- CEE_neutrality:0 "Castyrian Empire"
- CEE_neutrality_DEF:0 "Castyrian Empire"
-
- ZDS_neutrality:0 "Zaladoslavie"
- ZDS_neutrality_DEF:0 "Zaladoslaive Zalazka"
-
- RDS_neutrality:0 "Regencia del sud"
- RDS_neutrality_DEF:0 "Regencia del sud"
-
- GAL_neutrality:0 "Galicia"
- GAL_neutrality_DEF:0 "Galician Republic"
-
- ISL_neutrality:0 "�sland"
- ISL_neutrality_DEF:0 "Islandsstati"

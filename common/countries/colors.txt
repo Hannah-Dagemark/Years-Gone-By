@@ -444,3 +444,33 @@ ISL = {
 	color = rgb { 100 100 100 }
 	color_ui = rgb { 100 100 100 }
 }
+
+NGD = {
+	color = rgb { 21 205 35 }
+	color_ui = rgb { 21 205 35 }
+}
+
+LIN = {
+	color = rgb { 56 186 235 }
+	color_ui = rgb { 56 186 235 }
+}
+
+AUU = {
+	color = rgb { 62 100 245 }
+	color_ui = rgb { 62 100 245 }
+}
+
+ILL = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+MOS = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
+
+OST = {
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
+}
