@@ -135,6 +135,7 @@ GCT = {
 	color_ui = rgb { 21 31 102 }
 }
 
+<<<<<<< Updated upstream
 LSA = {
 	color = rgb { 232 212 192 }
 	color_ui = rgb { 232 212 192 }
@@ -473,4 +474,9 @@ MOS = {
 OST = {
 	color = rgb { 100 100 100 }
 	color_ui = rgb { 100 100 100 }
+=======
+FLA = {
+	color = rgb { 190 170 0 }
+	color_ui = rgb { 190 170 0 }
+>>>>>>> Stashed changes
 }

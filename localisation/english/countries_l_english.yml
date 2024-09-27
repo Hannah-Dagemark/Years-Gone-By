@@ -1139,3 +1139,11 @@ AUU_communism_DEF:0 "Auvurgen"
 AUU_fascism:0 "Auvurgen"
 AUU_fascism_DEF:0 "Auvurgen"
 
+<<<<<<< Updated upstream
+=======
+ GCT_neutrality:0 "Günther Cult"
+ GCT_neutrality_DEF:0 "The cult of Günther"
+
+ FLA_neutrality:0 "flanders"
+ FLA_neutrality_DEF:0 "The Kingdom of Flanders"
+>>>>>>> Stashed changes

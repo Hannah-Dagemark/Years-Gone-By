@@ -19,6 +19,7 @@ FAL = "countries/Falandia.txt"
 SVL = "countries/Sarvundland.txt"
 TTR = "countries/TallRepublic.txt"
 GTL = "countries/Gaestertland.txt"
+<<<<<<< Updated upstream
 GCT = "countries/Gunther Cult.txt"
 LSA = "countries/Linguisatia.txt"
 VTR = "countries/Vasterreich.txt"
@@ -88,3 +89,7 @@ AUU = "countries/Auvurgen.txt"
 ILL = "countries/Illria.txt"
 MOS = "countries/Moskva.txt"
 OST = "countries/Ostarruthian Empire.txt"
+=======
+GCT = "countries/Günther Cult.txt"
+FLA = "countries/flanders.txt"
+>>>>>>> Stashed changes
