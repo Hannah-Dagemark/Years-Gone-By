@@ -2,13 +2,13 @@ state={
 	id=287
 	name="STATE_287"
 	provinces={
-		917 9175 9181 9203 9271 
+		917 1785 9175 9181 9203 9271 
 	}
 	buildings_max_level_factor=1.000
         manpower=1000
         state_category = rural
 	history={
-		add_core_of = NGD
+		add_core_of = ABC
 		owner = NGD
 	}
 }
