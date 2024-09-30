@@ -1,0 +1,131 @@
+focus_tree = {
+    id = yxn_default
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            original_tag = NGD
+        }
+    }
+
+    focus = {
+        id = ngd_aftermath_of_frozen_war
+        x = 15
+        cost = 2
+        icon = GFX_focus_CHL_departemento_de_las_tropas_nacistas_de_asalto
+        mutually_exclusive = {}
+        completion_reward = {
+            add_stability = -0.1
+
+        }
+    }
+
+
+    ##PRO KING PATH 
+        [
+        focus = {
+            id = ngd_squash_the_insurrectionists
+            x = -1
+            y = 1
+            cost = 5
+            icon = GFX_focus_eng_move_to_secure_the_dominions
+            mutually_exclusive = { focus = ngd_meeting_in_novgorod }
+            prerequisite = {focus = ngd_aftermath_of_frozen_war}
+            relative_position_id = ngd_aftermath_of_frozen_war
+        }
+        focus = {
+            id = ngd_focus_on_the_core
+            x = -2
+            y = 1
+            cost = 6
+            icon = GFX_focus_generic_home_defense
+            prerequisite = {focus = ngd_squash_the_insurrectionists}
+            relative_position_id = ngd_squash_the_insurrectionists
+        }
+
+
+        focus = {
+            id = ngd_begin_pacification_capmaign
+            x = 0
+            y = 2
+            cost = 10
+            icon = GFX_focus_generic_total_war
+            prerequisite = {focus = ngd_squash_the_insurrectionists}
+            prerequisite = {focus = ngd_focus_on_the_core focus = ngd_royal_workshops}
+            relative_position_id = ngd_squash_the_insurrectionists
+        }
+
+        focus = {
+            id = ngd_rifles_to_loyalists
+            x = -1
+            y = 1
+            cost = 4
+            icon = GFX_focus_ETH_freedom_at_gunpoint
+            prerequisite = {focus = ngd_begin_pacification_capmaign}
+            relative_position_id = ngd_begin_pacification_capmaign
+        }
+
+        focus = {
+            id = ngd_organized_redistribution_efforts
+            x = 1
+            y = 1
+            cost = 4
+            icon = GFX_focus_generic_agricultural_subsidies
+            prerequisite = {focus = ngd_begin_pacification_capmaign}
+            relative_position_id = ngd_begin_pacification_capmaign
+        }
+
+        focus = {
+            id = ngd_reconstruct_damaged_borderlands
+            x = 0
+            y = 2
+            cost = 4
+            icon = GFX_focus_generic_modernize_industry
+            prerequisite = {focus = ngd_organized_redistribution_efforts}
+            relative_position_id = ngd_organized_redistribution_efforts
+        }
+
+
+        focus = {
+            id = ngd_expand_policing_force
+            x = 0
+            y = 2
+            cost = 4
+            icon = GFX_focus_generic_limited_social_mobilization
+            prerequisite = {focus = ngd_rifles_to_loyalists}
+            prerequisite = {focus = ngd_organized_redistribution_efforts}
+            relative_position_id = ngd_rifles_to_loyalists
+        }
+        
+        focus = {
+            id = ngd_the_fruits_of_loyalty
+            x = 1
+            y = 1
+            cost = 4
+            icon = GFX_focus_generic_concessions
+            prerequisite = {focus = ngd_rifles_to_loyalists}
+            relative_position_id = ngd_rifles_to_loyalists
+        }
+
+        focus = {
+            id = ngd_royal_workshops
+            x = 2
+            y = 1
+            cost = 6
+            icon = GFX_focus_generic_industry_3
+            prerequisite = {focus = ngd_squash_the_insurrectionists}
+            relative_position_id = ngd_squash_the_insurrectionists
+        }
+    ]
+
+    focus = {
+        id = ngd_meeting_in_novgorod
+        x = 3
+        y = 2
+        cost = 12
+        icon = GFX_focus_eng_the_kings_party
+        mutually_exclusive = { focus = ngd_squash_the_insurrectionists}
+        relative_position_id = ngd_aftermath_of_frozen_war
+        prerequisite = {focus = ngd_aftermath_of_frozen_war}
+    }
+}

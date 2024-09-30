@@ -1,0 +1,27 @@
+add_namespace = novgorod
+
+country_event {
+    id = novgorod.1
+    title = novgorod.1.t
+    desc = novgorod.1.d
+    picture = GFX_report_event_chinese_soldiers_fighting
+
+    is_triggered_only = yes
+
+    option = { # The grace of the king must be restored
+        name = novgorod.1.a
+        ai_chance = { factor = 100 }
+        effect_tooltip = {
+            add_political_power = -50
+        }
+    }
+
+    option = { # Perhaps it is time for a new ruler
+        name = novgorod.1.b
+        ai_chance = { factor = 0 }
+        effect_tooltip = {
+            add_political_power = 50
+            add_stability = -0.1
+        }
+    }
+}
